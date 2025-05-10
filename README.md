@@ -40,25 +40,41 @@ I love exploring connections between **AI and economic analysis**, from advanced
 - 🔗 **Graph Theory** in economic networks  
 - 🏛️ **Structural BVAR models** for policy impact analysis  
 
-<table>
+<table style="width:100%;">
   <tr>
-    <td valign="top">
-    <h3>🔍 More About Me </h3>
-    <ul style="margin: 0; padding: 0; list-style: none;">
-      <li style="margin: 2px 0;">🚧 I’m currently working on <strong>GPU-Accelerated Bayesian Learning &amp; Forecasting in SGDM</strong></li>
-      <li style="margin: 2px 0;">🤝 I’m looking to collaborate on <strong>Bayesian Econometrics</strong> or <strong>ML applied to Economics</strong></li>
-      <li style="margin: 2px 0;">📚 I’m currently learning <strong>Reinforcement Learning</strong> and <strong>Autoencoders</strong></li>
-      <li style="margin: 2px 0;">💻 Most of my work is available on <a href="https://github.com/YOUR_USERNAME">GitHub</a></li>
-      <li style="margin: 2px 0;">❓ Ask me anything related to <strong>macroeconomic analysis from data</strong></li>
-      <li style="margin: 2px 0;">🔗 Feel free to ping me on <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/">LinkedIn</a></li>
-      <li style="margin: 2px 0;">📄 Checkout my <a href="./Hoja_de_Vida_Ingles.pdf">resume</a></li>
-      <li style="margin: 2px 0;">🎾 I play tennis and 📖 read science fiction in my free time</li>
-    </ul>
+    <td valign="top" style="width:60%; padding-right:24px;">
+      <h3 style="margin-bottom:12px;">🔍 More About Me</h3>
+<ul style="margin:0; padding:0; list-style:none; line-height:1.8;">
+  <li style="padding-bottom:8px;">
+    🚧 I’m currently working on <strong>GPU-Accelerated Bayesian Learning &amp; Forecasting in SGDM</strong>
+  </li>
+  <li style="padding-bottom:8px;">
+    🤝 I’m looking to collaborate on <strong>Bayesian Econometrics</strong> or <strong>ML applied to Economics</strong>
+  </li>
+  <li style="padding-bottom:8px;">
+    📚 I’m currently learning <strong>Reinforcement Learning</strong> and <strong>Autoencoders</strong>
+  </li>
+  <li style="padding-bottom:8px;">
+    💻 Most of my work is available on <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  </li>
+  <li style="padding-bottom:8px;">
+    ❓ Ask me anything related to <strong>macroeconomic analysis from data</strong>
+  </li>
+  <li style="padding-bottom:8px;">
+    🔗 Feel free to ping me on <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/">LinkedIn</a>
+  </li>
+  <li style="padding-bottom:8px;">
+    📄 Checkout my <a href="./Hoja_de_Vida_Ingles.pdf">resume</a>
+  </li>
+  <li style="padding-bottom:8px;">
+    🎾 I play tennis and 📖 read science fiction in my free time
+  </li>
+</ul>
     </td>
-    <td valign="top" align="right">
-    <img src="./Image.png"
-         alt="Pablo Reyes Profile Infographic"
-         width="250"/>
+    <td valign="top" align="center" style="width:40%; padding-left:24px;">
+      <img src="./Image_Banner.png"
+           alt="Pablo Reyes Profile Infographic"
+           width="250"/>
     </td>
   </tr>
 </table>
@@ -66,12 +82,29 @@ I love exploring connections between **AI and economic analysis**, from advanced
 
 ## 🛠️ Tools & Technologies
 
+
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stata-0A2239?style=flat&logo=stata&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-  <!-- add more badges from https://shields.io/ -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
+  <img src="https://img.shields.io/badge/Stata-0A2239?style=for-the-badge&logo=stata&logoColor=white" alt="Stata" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <br/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Statsmodels-2D6997?style=for-the-badge&logo=statsmodels&logoColor=white" alt="Statsmodels" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <br/>
+  <img src="https://img.shields.io/badge/NLTK-FFDE57?style=for-the-badge&logo=nltk&logoColor=black" alt="NLTK" />
+  <img src="https://img.shields.io/badge/Word2Vec-7AA721?style=for-the-badge&logo=gensim&logoColor=white" alt="Word2Vec" />
+  <img src="https://img.shields.io/badge/spaCy-0C4C96?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
+  <img src="https://img.shields.io/badge/HuggingFace-F37B3E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 </p>
 
 ---
@@ -79,8 +112,8 @@ I love exploring connections between **AI and economic analysis**, from advanced
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pablo-reyes8&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-reyes8&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
