@@ -2,13 +2,23 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank" rel="noreferrer" style="text-decoration:none">
-    <kbd>🔗 LinkedIn</kbd>
+    <kbd style="
+      font-size: 20px;    
+      padding:6px 10px;  
+      border-radius: 10px; 
+    ">
+      🔗 LinkedIn
+    </kbd>
   </a>
-  <a href="https://instagram.com/yourhandle" target="_blank" rel="noreferrer" style="text-decoration:none; margin-left:8px">
-    <kbd>📸 Instagram</kbd>
+  <a href="https://www.instagram.com/pablo.reyes8/" target="_blank" rel="noreferrer" style="text-decoration:none; margin-left:12px">
+    <kbd style="font-size:18px; padding:6px 10px; border-radius:6px;">
+      📸 Instagram
+    </kbd>
   </a>
-  <a href="mailto:alejogranados229@gmail.com" target="_blank" rel="noreferrer" style="text-decoration:none; margin-left:8px">
-    <kbd>✉️ Email</kbd>
+  <a href="mailto:alejogranados229@gmail.com" target="_blank" rel="noreferrer" style="text-decoration:none; margin-left:12px">
+    <kbd style="font-size:18px; padding:6px 10px; border-radius:6px;">
+      ✉️ Email
+    </kbd>
   </a>
 </p>
 
@@ -16,14 +26,19 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Economist turned Data Scientist  
-- 🧠 **Core focus:** Applying **ML & Deep Learning** to Economics  
-- 📊 **Specialties:** Bayesian Econometrics · Time-Series Analysis · Graph Theory  
-- 🚀 I love exploring **AI ↔️ Economic Analysis**, from structural BVAR forecasting to graph-theoretic models  
-- 🤝 Always open to **collaborate** or **share insights**!
-
+I’m an Economist turned Data Scientist with a passion for building impactful models.  
+My core interests include **applying Machine Learning & Deep Learning to Economics**, **Bayesian Econometrics**, **Time-Series Analysis**, and **Graph Theory**.  
+I love exploring connections between **AI and economic analysis**, from advanced forecasting techniques and structural BVAR models to graph-theoretic approaches, and I’m always open to collaborate or share insights!
 
 ---
+
+### 🔧 Core Focus Areas
+
+- 🤖 **Machine Learning & Deep Learning** applied to economic problems  
+- 📈 **Bayesian Econometrics** for robust inference  
+- 📊 **Time-Series Analysis** & forecasting  
+- 🔗 **Graph Theory** in economic networks  
+- 🏛️ **Structural BVAR models** for policy impact analysis  
 
 ## 🛠️ Tools & Technologies
 
