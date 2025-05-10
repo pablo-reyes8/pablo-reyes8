@@ -1,9 +1,19 @@
-# Hi, I’m **Pablo Reyes** 👋  
-_Economist • Data Scientist • ML & Bayesian Enthusiast_
+# Hey 👋, I’m **Pablo Reyes**!
 
-🔭 Currently pursuing a **Master’s in Business Intelligence**  
-🌱 Exploring **Structural BVAR**, **Deep Learning (PyTorch)** & **Spatial NLP**  
-📫 Reach me on [LinkedIn](https://linkedin.com/in/your-profile) • [Email](mailto:you@domain.com)
+<p align="center">
+  <!-- Social links: replace URLs with yours -->
+  <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:you@domain.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+_I’m an Economist turned Data Scientist, currently diving into Structural BVAR, Deep Learning (PyTorch), and Spatial NLP. Always happy to collaborate and share knowledge!_
 
 ---
 
