@@ -56,7 +56,7 @@ I love exploring connections between **AI and economic analysis**, from advanced
     </ul>
     </td>
     <td valign="top" align="right">
-    <img src="./assets/data_science_graphic.png"
+    <img src="image.png"
          alt="Data Science Illustration"
          width="250"/>
     </td>
