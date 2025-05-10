@@ -111,20 +111,13 @@ I love exploring connections between **AI and economic analysis**, from advanced
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pablo-reyes8&show_icons=true&theme=dark&cache_seconds=1"
-    alt="GitHub Stats"
-    width="495"
-    height="195"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-reyes8&layout=compact&theme=dark&cache_seconds=1"
-    alt="Top Languages"
-    width="495"
-    height="195"
-  />
-</p>
+<div align="center">
+
+| <a href="https://github.com/pablo-reyes8"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pablo-reyes8&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=1" alt="Pablo’s GitHub Stats" /></a> | <a href="https://github.com/pablo-reyes8"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo-reyes8&layout=compact&theme=dark&hide_border=true&cache_seconds=1&card_width=495" alt="Pablo’s Top Languages" /></a> |
+|:---:|:---:|
+
+</div>
+
 
 ---
 
