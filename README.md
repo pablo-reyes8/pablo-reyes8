@@ -1,27 +1,35 @@
 # Hey 👋, I’m **Pablo Reyes**!
 
-
 <p align="left">
   <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
-         alt="LinkedIn"
-         width="32" style="border-radius:50%; margin-right:8px;" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      width="40"
+      style="border-radius:50%; margin-right:12px;"
+    />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"
-         alt="Twitter"
-         width="32" style="border-radius:50%; margin-right:8px;" />
+  <a href="https://www.instagram.com/pablo.reyes8/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"
+      alt="Instagram"
+      width="40"
+      style="border-radius:50%; margin-right:12px;"
+    />
   </a>
   <a href="mailto:alejogranados229@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"
-         alt="Email"
-         width="32" style="border-radius:50%;" />
+    <img
+      src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"
+      alt="Email"
+      width="40"
+      style="border-radius:50%;"
+    />
   </a>
 </p>
 
-<I’m an Economist turned Data Scientist with a passion for building impactful models.  
-My core interests include **Machine Learning**, **Deep Learning**, **Bayesian Econometrics** and **Time-Series Analysis**.  
-I love exploring advanced forecasting techniques, structural BVAR models, and spatial NLP—and I’m always open to collaborate or share insights!>
+I’m an Economist turned Data Scientist with a passion for building impactful models.  
+My core interests include **applying Machine Learning & Deep Learning to Economics**, **Bayesian Econometrics**, **Time-Series Analysis**, and **Graph Theory**.  
+I love exploring connections between **AI and economic analysis**—from advanced forecasting techniques and structural BVAR models to graph-theoretic approaches—and I’m always open to collaborate or share insights!
 
 ---
 
