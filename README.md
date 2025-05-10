@@ -5,7 +5,7 @@
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
       alt="LinkedIn"
-      width="40"
+      width="70"
       style="border-radius:50%; margin-right:12px;"
     />
   </a>
@@ -13,7 +13,7 @@
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"
       alt="Instagram"
-      width="40"
+      width="70"
       style="border-radius:50%; margin-right:12px;"
     />
   </a>
@@ -21,7 +21,7 @@
     <img
       src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"
       alt="Email"
-      width="40"
+      width="70"
       style="border-radius:50%;"
     />
   </a>
