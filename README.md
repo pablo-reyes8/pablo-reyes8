@@ -1,35 +1,27 @@
 # Hey 👋, I’m **Pablo Reyes**!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      width="70"
-      style="border-radius:50%; margin-right:12px;"
-    />
+  <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank" rel="noreferrer" style="text-decoration:none">
+    <kbd>🔗 LinkedIn</kbd>
   </a>
-  <a href="https://www.instagram.com/pablo.reyes8/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"
-      alt="Instagram"
-      width="70"
-      style="border-radius:50%; margin-right:12px;"
-    />
+  <a href="https://instagram.com/yourhandle" target="_blank" rel="noreferrer" style="text-decoration:none; margin-left:8px">
+    <kbd>📸 Instagram</kbd>
   </a>
-  <a href="mailto:alejogranados229@gmail.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"
-      alt="Email"
-      width="70"
-      style="border-radius:50%;"
-    />
+  <a href="mailto:alejogranados229@gmail.com" target="_blank" rel="noreferrer" style="text-decoration:none; margin-left:8px">
+    <kbd>✉️ Email</kbd>
   </a>
 </p>
 
-I’m an Economist turned Data Scientist with a passion for building impactful models.  
-My core interests include **applying Machine Learning & Deep Learning to Economics**, **Bayesian Econometrics**, **Time-Series Analysis**, and **Graph Theory**.  
-I love exploring connections between **AI and economic analysis**—from advanced forecasting techniques and structural BVAR models to graph-theoretic approaches—and I’m always open to collaborate or share insights!
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Economist turned Data Scientist  
+- 🧠 **Core focus:** Applying **ML & Deep Learning** to Economics  
+- 📊 **Specialties:** Bayesian Econometrics · Time-Series Analysis · Graph Theory  
+- 🚀 I love exploring **AI ↔️ Economic Analysis**, from structural BVAR forecasting to graph-theoretic models  
+- 🤝 Always open to **collaborate** or **share insights**!
+
 
 ---
 
