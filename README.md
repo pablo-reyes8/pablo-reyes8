@@ -1,19 +1,27 @@
 # Hey 👋, I’m **Pablo Reyes**!
 
-<p align="center">
-  <!-- Social links: replace URLs with yours -->
-  <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"
+         alt="LinkedIn"
+         width="32" style="border-radius:50%; margin-right:8px;" />
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"
+         alt="Twitter"
+         width="32" style="border-radius:50%; margin-right:8px;" />
   </a>
-  <a href="mailto:you@domain.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:alejogranados229@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"
+         alt="Email"
+         width="32" style="border-radius:50%;" />
   </a>
 </p>
 
-_I’m an Economist turned Data Scientist, currently diving into Structural BVAR, Deep Learning (PyTorch), and Spatial NLP. Always happy to collaborate and share knowledge!_
+<I’m an Economist turned Data Scientist with a passion for building impactful models.  
+My core interests include **Machine Learning**, **Deep Learning**, **Bayesian Econometrics** and **Time-Series Analysis**.  
+I love exploring advanced forecasting techniques, structural BVAR models, and spatial NLP—and I’m always open to collaborate or share insights!>
 
 ---
 
