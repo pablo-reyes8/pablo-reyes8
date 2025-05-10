@@ -56,14 +56,12 @@ I love exploring connections between **AI and economic analysis**, from advanced
     </ul>
     </td>
     <td valign="top" align="right">
-    <img src="https://your-domain.com/assets/data_science_graphic.png"
+    <img src="./assets/data_science_graphic.png"
          alt="Data Science Illustration"
          width="250"/>
     </td>
   </tr>
 </table>
-
-
 
 
 ## 🛠️ Tools & Technologies
