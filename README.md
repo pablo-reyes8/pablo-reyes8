@@ -56,7 +56,7 @@ I love exploring connections between **AI and economic analysis**, from advanced
     </ul>
     </td>
     <td valign="top" align="right">
-    <img src="./assets/image.png"
+    <img src="./assets/Image.png"
          alt="Pablo Reyes Profile Infographic"
          width="250"/>
     </td>
