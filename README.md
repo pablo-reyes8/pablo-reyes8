@@ -51,7 +51,7 @@ I love exploring connections between **AI and economic analysis**, from advanced
       <li style="margin: 2px 0;">💻 Most of my work is available on <a href="https://github.com/YOUR_USERNAME">GitHub</a></li>
       <li style="margin: 2px 0;">❓ Ask me anything related to <strong>macroeconomic analysis from data</strong></li>
       <li style="margin: 2px 0;">🔗 Feel free to ping me on <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/">LinkedIn</a></li>
-      <li style="margin: 2px 0;">📄 Checkout my <a href="./CV.pdf">resume</a></li>
+      <li style="margin: 2px 0;">📄 Checkout my <a href="./Hoja_de_Vida_Ingles.pdf">resume</a></li>
       <li style="margin: 2px 0;">🎾 I play tennis and 📖 read science fiction in my free time</li>
     </ul>
     </td>
