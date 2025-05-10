@@ -40,6 +40,32 @@ I love exploring connections between **AI and economic analysis**, from advanced
 - 🔗 **Graph Theory** in economic networks  
 - 🏛️ **Structural BVAR models** for policy impact analysis  
 
+<table>
+  <tr>
+    <td valign="top">
+    <h3>🔍 More About Me </h3>
+    <ul style="margin: 0; padding: 0; list-style: none;">
+      <li style="margin: 2px 0;">🚧 I’m currently working on <strong>GPU-Accelerated Bayesian Learning &amp; Forecasting in SGDM</strong></li>
+      <li style="margin: 2px 0;">🤝 I’m looking to collaborate on <strong>Bayesian Econometrics</strong> or <strong>ML applied to Economics</strong></li>
+      <li style="margin: 2px 0;">📚 I’m currently learning <strong>Reinforcement Learning</strong> and <strong>Autoencoders</strong></li>
+      <li style="margin: 2px 0;">💻 Most of my work is available on <a href="https://github.com/YOUR_USERNAME">GitHub</a></li>
+      <li style="margin: 2px 0;">❓ Ask me anything related to <strong>macroeconomic analysis from data</strong></li>
+      <li style="margin: 2px 0;">🔗 Feel free to ping me on <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/">LinkedIn</a></li>
+      <li style="margin: 2px 0;">📄 Checkout my <a href="./CV.pdf">resume</a></li>
+      <li style="margin: 2px 0;">🎾 I play tennis and 📖 read science fiction in my free time</li>
+    </ul>
+    </td>
+    <td valign="top" align="right">
+    <img src="https://your-domain.com/assets/data_science_graphic.png"
+         alt="Data Science Illustration"
+         width="250"/>
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## 🛠️ Tools & Technologies
 
 <p align="center">
