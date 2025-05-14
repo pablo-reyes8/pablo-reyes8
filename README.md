@@ -38,7 +38,7 @@ I love exploring connections between **AI and economic analysis**, from advanced
 - 📈 **Bayesian Econometrics** for robust inference  
 - 📊 **Time-Series Analysis** & forecasting  
 - 🔗 **Graph Theory** in economic networks  
-- 🏛️ **Structural BVAR models** for policy impact analysis  
+- 🏛️ **Structural models** for policy impact analysis  
 
 <table style="width:100%;">
   <tr>
