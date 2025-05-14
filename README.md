@@ -46,7 +46,7 @@ I love exploring connections between **AI and economic analysis**, from advanced
       <h3 style="margin-bottom:12px;">🔍 More About Me</h3>
 <ul style="margin:0; padding:0; list-style:none; line-height:1.8;">
   <li style="padding-bottom:8px;">
-    🚧 I’m currently working on <strong>GPU-Accelerated Bayesian Learning &amp; Forecasting in SGDM</strong>
+    🚧 I’m currently working on <strong>GPU-Accelerated Bayesian Learning &amp; Forecasting in SGDLM</strong>
   </li>
   <li style="padding-bottom:8px;">
     🤝 I’m looking to collaborate on <strong>Bayesian Econometrics</strong> or <strong>ML applied to Economics</strong>
