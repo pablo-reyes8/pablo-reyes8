@@ -125,9 +125,9 @@ I love exploring connections between **AI and economic analysis**, from advanced
 
 | Project               | Description                                  | Link                                                         |
 | :-------------------- | :------------------------------------------- | :----------------------------------------------------------- |
-| **SBVAR-Col**         | Structural BVAR: T-Bills vs. TES Colombia    | [github.com/YOUR_USERNAME/SBVAR-Col](https://github.com/YOUR_USERNAME/SBVAR-Col) |
-| **tourism-forecast**   | Tourism flow forecasting with XGBoost        | [github.com/YOUR_USERNAME/tourism-forecast](https://github.com/YOUR_USERNAME/tourism-forecast) |
-| **geospatial-NLP**    | Neighborhood classification (Geo + Tweets)   | [github.com/YOUR_USERNAME/geospatial-NLP](https://github.com/YOUR_USERNAME/geospatial-NLP) |
+| **Bayesian SGDLM**    | Simultaneous Graphical DLM (SGDLM) of Gruber & West   | https://github.com/pablo-reyes8/bayesian-sgdlm |
+| **tourism-forecast**  | Tourism flow forecasting with XGBoost        | [github.com/YOUR_USERNAME/tourism-forecast](https://github.com/YOUR_USERNAME/tourism-forecast) |
+| **SBVAR-Col**         | Structural BVAR: T-Bills vs. Colombian Macro Data   | https://github.com/pablo-reyes8/bayesian_structural_var |
 
 ---
 
