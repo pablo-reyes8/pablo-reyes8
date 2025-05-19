@@ -126,7 +126,7 @@ I love exploring connections between **AI and economic analysis**, from advanced
 | Project               | Description                                  | Link                                                         |
 | :-------------------- | :------------------------------------------- | :----------------------------------------------------------- |
 | **Bayesian SGDLM**    | Simultaneous Graphical DLM (SGDLM) of Gruber & West   | https://github.com/pablo-reyes8/bayesian-sgdlm |
-| **tourism-forecast**  | Tourism flow forecasting with XGBoost        | [github.com/YOUR_USERNAME/tourism-forecast](https://github.com/YOUR_USERNAME/tourism-forecast) |
+| **Tourism-ML-Forecast**  | Tourism flow forecasting for Colombia with ML algorithms       | https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting |
 | **SBVAR-Col**         | Structural BVAR: T-Bills vs. Colombian Macro Data   | https://github.com/pablo-reyes8/bayesian_structural_var |
 
 ---
