@@ -2,24 +2,23 @@
 # Hey 👋, I’m **Pablo Reyes**!
 
 <p align="left">
-  <!-- redes sociales -->
-  <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank" rel="noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231875F0?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
   </a>
-  <a href="https://www.instagram.com/pablo.reyes8/" target="_blank" rel="noreferrer" style="margin-left:4px">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/pablo.reyes8/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge"/>
   </a>
-  <a href="mailto:alejogranados229@gmail.com" target="_blank" rel="noreferrer" style="margin-left:4px">
-    <img alt="Email" src="https://img.shields.io/badge/Email-alejogranados229%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:alejogranados229@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
   </a>
+</p>
 
-  <!-- skills -->
-  <span style="margin-left:12px; display:inline-flex; gap:4px; flex-wrap:wrap; align-items:center;">
-    <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-🤖-555?style=flat-square" />
-    <img alt="Data Science" src="https://img.shields.io/badge/Data%20Science-📊-555?style=flat-square" />
-    <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-🧠-555?style=flat-square" />
-    <img alt="Econometrics" src="https://img.shields.io/badge/Econometrics-📈-555?style=flat-square" />
-  </span>
+<!-- Skills -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine&nbsp;Learning-🤖-555?style=flat" alt="Machine Learning badge"/>
+  <img src="https://img.shields.io/badge/Data&nbsp;Science-📊-555?style=flat" alt="Data Science badge"/>
+  <img src="https://img.shields.io/badge/Deep&nbsp;Learning-🧠-555?style=flat" alt="Deep Learning badge"/>
+  <img src="https://img.shields.io/badge/Econometrics-📈-555?style=flat" alt="Econometrics badge"/>
 </p>
 
 ---
