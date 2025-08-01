@@ -2,32 +2,23 @@
 # Hey 👋, I’m **Pablo Reyes**!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank" rel="noreferrer" style="text-decoration:none">
-    <kbd style="
-      font-size: 20px;    
-      padding:6px 10px;  
-      border-radius: 10px; 
-    ">
-      🔗 LinkedIn
-    </kbd>
+  <!-- redes sociales -->
+  <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank" rel="noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231875F0?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/pablo.reyes8/" target="_blank" rel="noreferrer" style="text-decoration:none; margin-left:12px">
-    <kbd style="font-size:18px; padding:6px 10px; border-radius:6px;">
-      📸 Instagram
-    </kbd>
+  <a href="https://www.instagram.com/pablo.reyes8/" target="_blank" rel="noreferrer" style="margin-left:4px">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:alejogranados229@gmail.com" target="_blank" rel="noreferrer" style="text-decoration:none; margin-left:12px">
-    <kbd style="font-size:18px; padding:6px 10px; border-radius:6px;">
-      ✉️ Email
-    </kbd>
+  <a href="mailto:alejogranados229@gmail.com" target="_blank" rel="noreferrer" style="margin-left:4px">
+    <img alt="Email" src="https://img.shields.io/badge/Email-alejogranados229%40gmail.com-grey?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <!-- Labels de habilidades -->
-  <span style="margin-left:16px; vertical-align:middle;">
-    <img src="https://img.shields.io/badge/Machine%20Learning-🤖-blue?style=flat-square" alt="Machine Learning" style="height:24px; margin-right:4px;">
-    <img src="https://img.shields.io/badge/Data%20Science-📊-blue?style=flat-square" alt="Data Science" style="height:24px; margin-right:4px;">
-    <img src="https://img.shields.io/badge/Deep%20Learning-🧠-blue?style=flat-square" alt="Deep Learning" style="height:24px; margin-right:4px;">
-    <img src="https://img.shields.io/badge/Econometrics-📈-blue?style=flat-square" alt="Econometrics" style="height:24px;">
+  <!-- skills -->
+  <span style="margin-left:12px; display:inline-flex; gap:4px; flex-wrap:wrap; align-items:center;">
+    <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-🤖-555?style=flat-square" />
+    <img alt="Data Science" src="https://img.shields.io/badge/Data%20Science-📊-555?style=flat-square" />
+    <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-🧠-555?style=flat-square" />
+    <img alt="Econometrics" src="https://img.shields.io/badge/Econometrics-📈-555?style=flat-square" />
   </span>
 </p>
 
