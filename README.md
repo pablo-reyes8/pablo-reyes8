@@ -1,6 +1,6 @@
 <!-- Banner en la parte superior -->
 <p align="center">
-  <img src="Foto principal.png" alt="Banner de Pablo Reyes" style="width:100%; max-height:200px; object-fit:cover;">
+  <img src="Foto Principal.png" alt="Banner de Pablo Reyes" style="width:100%; max-height:200px; object-fit:cover;">
   <br/>
   <!-- íconos/labels opcionales de skills -->
   <img src="https://img.shields.io/badge/Machine%20Learning-🤖-blue?style=flat-square" alt="ML"/>
