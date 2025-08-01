@@ -1,14 +1,3 @@
-<!-- Banner en la parte superior -->
-<p align="center">
-  <img src="Foto Principal.jpeg" alt="Banner de Pablo Reyes" style="width:100%; max-height:200px; object-fit:cover;">
-  <br/>
-  <!-- íconos/labels opcionales de skills -->
-  <img src="https://img.shields.io/badge/Machine%20Learning-🤖-blue?style=flat-square" alt="ML"/>
-  <img src="https://img.shields.io/badge/Data%20Science-📊-blue?style=flat-square" alt="DS"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-🧠-blue?style=flat-square" alt="DL"/>
-  <img src="https://img.shields.io/badge/Econometrics-📈-blue?style=flat-square" alt="Econometrics"/>
-</p>
-
 
 # Hey 👋, I’m **Pablo Reyes**!
 
