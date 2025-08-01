@@ -20,11 +20,6 @@
     <kbd style="font-size:18px; padding:6px 10px; border-radius:6px;">
       ✉️ Email
     </kbd>
-
-    <img src="https://img.shields.io/badge/Machine%20Learning-🤖-blue?style=flat-square" alt="ML"/>
-  <img src="https://img.shields.io/badge/Data%20Science-📊-blue?style=flat-square" alt="DS"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-🧠-blue?style=flat-square" alt="DL"/>
-  <img src="https://img.shields.io/badge/Econometrics-📈-blue?style=flat-square" alt="Econometrics"/>
 </p>
   </a>
 </p>
