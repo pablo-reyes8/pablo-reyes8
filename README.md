@@ -20,8 +20,15 @@
     <kbd style="font-size:18px; padding:6px 10px; border-radius:6px;">
       ✉️ Email
     </kbd>
-</p>
   </a>
+
+  <!-- Labels de habilidades -->
+  <span style="margin-left:16px; vertical-align:middle;">
+    <img src="https://img.shields.io/badge/Machine%20Learning-🤖-blue?style=flat-square" alt="Machine Learning" style="height:24px; margin-right:4px;">
+    <img src="https://img.shields.io/badge/Data%20Science-📊-blue?style=flat-square" alt="Data Science" style="height:24px; margin-right:4px;">
+    <img src="https://img.shields.io/badge/Deep%20Learning-🧠-blue?style=flat-square" alt="Deep Learning" style="height:24px; margin-right:4px;">
+    <img src="https://img.shields.io/badge/Econometrics-📈-blue?style=flat-square" alt="Econometrics" style="height:24px;">
+  </span>
 </p>
 
 ---
