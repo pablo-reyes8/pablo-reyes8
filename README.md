@@ -166,7 +166,7 @@ I love exploring connections between **AI and economic analysis**, from advanced
 | [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | GPU-accelerated Bayesian learning & forecasting based on Gruber & West's SGDLM framework | `Python`  `Bayesian` |
 | [**Tourism ML Forecast**](https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting) | ML-based forecasting for tourism flows in Colombia with SHAP-based interpretability | `Python` `XGBoost` `SHAP` |
 | [**SBVAR-Col**](https://github.com/pablo-reyes8/bayesian_structural_var) | Structural BVAR to analyze spillovers from U.S. T-Bills to Colombian macro indicators | `Statistics` `Python` `Bayesian VAR` |
-| [**Inflation Forecasting**](https://github.com/pablo-reyes8/inflation-forecasting-arima-lstm) | Hybrid forecasting pipeline combining ARIMA (econometrics) and LSTM (deep learning) to predict Colombian inflation, comparing traditional time series models with neural network architectures | `Python` `TensorFlow` `ARIMA` `LSTM` `Time Series` |
+| [**Inflation Forecasting**](https://github.com/pablo-reyes8/inflation-forecasting-arima-lstm) | Hybrid forecasting pipeline combining ARIMA (econometrics) and LSTM (deep learning) to predict inflation, comparing traditional time series models with neural network architectures | `Python` `TensorFlow` `ARIMA` `LSTM` `Time Series` |
 ---
 
 
