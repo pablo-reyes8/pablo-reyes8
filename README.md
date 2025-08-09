@@ -42,7 +42,7 @@ I love exploring connections between **AI and economic analysis**, from advanced
 
 ### 📅 Now
 - Researching **Econometrics** at Banco de la República
-- Studying **Reinforcement Learning** & **Autoencoders**
+- Pursuing a master's degree in business intelligence
 - Implementing neural network architectures from scratch
 
 
