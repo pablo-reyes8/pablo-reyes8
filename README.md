@@ -25,9 +25,9 @@
 
 ## 👨‍💻 About Me
 
-I’m an Economist turned Data Scientist with a passion for building impactful models.  
-My core interests include **applying Machine Learning & Deep Learning to Economics**, **Bayesian Econometrics**, **Time-Series Analysis**, and **Graph Theory**.  
-I love exploring connections between **AI and economic analysis**, from advanced forecasting techniques and structural BVAR models to graph-theoretic approaches, and I’m always open to collaborate or share insights!
+Economist turned Data Scientist focused on **Machine Learning, Bayesian Econometrics, Time-Series Analysis, and Graph Theory**.  
+I apply advanced ML and econometric methods to analyze and forecast economic systems, from **structural BVARs** to **graph-theoretic network models**.  
+Always open to collaborating on impactful, data-driven research.
 
 ---
 
