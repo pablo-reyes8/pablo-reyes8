@@ -31,13 +31,11 @@ I love exploring connections between **AI and economic analysis**, from advanced
 
 ---
 
-### 🔧 Core Focus Areas
+## 🔧 Core Strengths
 
-- 🤖 **Machine Learning & Deep Learning** applied to economic problems  
-- 📈 **Bayesian Econometrics** for robust inference  
-- 📊 **Time-Series Analysis** & forecasting  
-- 🔗 **Graph Theory** in economic networks  
-- 🏛️ **Structural models** for policy impact analysis  
+- **ML & DL in Economics**: Forecasting, interpretability, and policy impact modeling  
+- **Bayesian Econometrics**: BVARs, SGDLMs, structural identification  
+- **Graph Theory in Economics**: Network centrality, contagion modeling, trade linkages
 
 
 ### 📅 Now
