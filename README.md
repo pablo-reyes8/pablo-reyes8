@@ -59,7 +59,7 @@ Always open to collaborating on impactful, data-driven research.
     💻 Most of my work is available on <a href="https://github.com/YOUR_USERNAME">GitHub</a>
   </li>
   <li style="padding-bottom:8px;">
-    ❓ Ask me anything related to <strong>macroeconomic analysis from data</strong>
+    ❓ Ask me anything about leveraging <strong>AI & Machine Learning</strong> for cutting-edge <strong>economic analysis</strong> and forecasting
   </li>
   <li style="padding-bottom:8px;">
     🔗 Feel free to ping me on <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/">LinkedIn</a>
