@@ -39,14 +39,18 @@ I love exploring connections between **AI and economic analysis**, from advanced
 - 🔗 **Graph Theory** in economic networks  
 - 🏛️ **Structural models** for policy impact analysis  
 
+
+### 📅 Now
+- Researching **Econometrics** at Banco de la República
+- Studying **Reinforcement Learning** & **Autoencoders**
+- Implementing neural network architectures from scratch
+
+
 <table style="width:100%;">
   <tr>
     <td valign="top" style="width:60%; padding-right:24px;">
       <h3 style="margin-bottom:12px;">🔍 More About Me</h3>
 <ul style="margin:0; padding:0; list-style:none; line-height:1.8;">
-  <li style="padding-bottom:8px;">
-    🚧 I’m currently working on <strong>GPU-Accelerated Bayesian Learning &amp; Forecasting in SGDLM</strong>
-  </li>
   <li style="padding-bottom:8px;">
     🤝 I’m looking to collaborate on <strong>Bayesian Econometrics</strong> or <strong>ML applied to Economics</strong>
   </li>
@@ -68,6 +72,9 @@ I love exploring connections between **AI and economic analysis**, from advanced
   <li style="padding-bottom:8px;">
     🎾 I play tennis and 📖 read science fiction in my free time
   </li>
+  <li style="padding-bottom:8px;">
+  🏛️ Currently conducting research at <strong>Banco de la República</strong> on Time-Series Models</strong> for policy analysis
+</li>
 </ul>
     </td>
     <td valign="top" align="center" style="width:40%; padding-left:24px;">
@@ -80,8 +87,6 @@ I love exploring connections between **AI and economic analysis**, from advanced
 
 
 ## 🛠️ Tools & Technologies
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -122,12 +127,11 @@ I love exploring connections between **AI and economic analysis**, from advanced
 
 ## 🚀 Featured Projects
 
-| Project               | Description                                  | Link                                                         |
-| :-------------------- | :------------------------------------------- | :----------------------------------------------------------- |
-| **Bayesian SGDLM**    | Simultaneous Graphical DLM (SGDLM) of Gruber & West   | https://github.com/pablo-reyes8/bayesian-sgdlm |
-| **Tourism-ML-Forecast**  | Tourism flow forecasting for Colombia with ML algorithms and Interpretations       | https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting |
-| **SBVAR-Col**         | Structural BVAR: T-Bills vs. Colombian Macro Data   | https://github.com/pablo-reyes8/bayesian_structural_var |
-
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | GPU-accelerated Bayesian learning & forecasting based on Gruber & West's SGDLM framework | `Python`  `Bayesian` |
+| [**Tourism ML Forecast**](https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting) | ML-based forecasting for tourism flows in Colombia with SHAP-based interpretability | `Python` `XGBoost` `SHAP` |
+| [**SBVAR-Col**](https://github.com/pablo-reyes8/bayesian_structural_var) | Structural BVAR to analyze spillovers from U.S. T-Bills to Colombian macro indicators | `Statistics` `Python` `Bayesian VAR` |
 ---
 
 <p align="center">
