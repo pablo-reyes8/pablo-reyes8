@@ -117,11 +117,10 @@ I love exploring connections between **AI and economic analysis**, from advanced
 
 <div align="center">
 
-| <a href="https://github.com/pablo-reyes8"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pablo-reyes8&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&cache_seconds=1" alt="Pablo’s GitHub Stats" /></a> | <a href="https://github.com/pablo-reyes8"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo-reyes8&layout=compact&theme=dark&hide_border=true&cache_seconds=1&card_width=495" alt="Pablo’s Top Languages" /></a> |
+| <a href="https://github.com/pablo-reyes8"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pablo-reyes8&show_icons=true&include_all_commits=true&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&bg_color=1F222E,0f0c29,302b63,24243e&hide_border=true&cache_seconds=1" alt="Pablo’s GitHub Stats" /></a> | <a href="https://github.com/pablo-reyes8"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo-reyes8&layout=compact&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&bg_color=1F222E,0f0c29,302b63,24243e&hide_border=true&cache_seconds=1&card_width=495" alt="Pablo’s Top Languages" /></a> |
 |:---:|:---:|
 
 </div>
-
 
 ---
 ## 📘 My Top Open-Source Projects
@@ -146,7 +145,7 @@ I love exploring connections between **AI and economic analysis**, from advanced
 </p>
 
 <!-- Quick actions / social proof -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/pablo-reyes8?tab=repositories&sort=stargazers">
     <img alt="All Repositories" title="All Repositories" 
          src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
