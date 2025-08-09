@@ -124,15 +124,54 @@ I love exploring connections between **AI and economic analysis**, from advanced
 
 
 ---
+## 📘 My Top Open-Source Projects
 
-## 🚀 Featured Projects
+<!-- Pin cards (responsive row) -->
+<p align="left">
+  <a href="https://github.com/pablo-reyes8/bayesian-sgdlm">
+    <img width="32%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-sgdlm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" 
+         alt="bayesian-sgdlm"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting">
+    <img width="32%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=colombia-tourism-ml-forecasting&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" 
+         alt="colombia-tourism-ml-forecasting"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8/bayesian_structural_var">
+    <img width="32%" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian_structural_var&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" 
+         alt="bayesian_structural_var"/>
+  </a>
+</p>
 
+<!-- Quick actions / social proof -->
+<p align="left">
+  <a href="https://github.com/pablo-reyes8?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" 
+         src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" 
+         src="https://custom-icon-badges.herokuapp.com/github/followers/pablo-reyes8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" 
+         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fpablo-reyes8"/>
+  </a>
+</p>
+
+<!-- Your concise table (keeps context/details) -->
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | GPU-accelerated Bayesian learning & forecasting based on Gruber & West's SGDLM framework | `Python`  `Bayesian` |
 | [**Tourism ML Forecast**](https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting) | ML-based forecasting for tourism flows in Colombia with SHAP-based interpretability | `Python` `XGBoost` `SHAP` |
 | [**SBVAR-Col**](https://github.com/pablo-reyes8/bayesian_structural_var) | Structural BVAR to analyze spillovers from U.S. T-Bills to Colombian macro indicators | `Statistics` `Python` `Bayesian VAR` |
 ---
+
+
+
+
 
 <p align="center">
   “Transforming data into high-impact decisions.”
