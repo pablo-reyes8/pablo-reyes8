@@ -141,7 +141,7 @@ Always open to collaborating on impactful, data-driven research.
 |:---:|:---:|
 
 <a href="https://github.com/pablo-reyes8">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo-reyes8&layout=compact&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&bg_color=1F222E,0f0c29,302b63,24243e&hide_border=true&cache_seconds=1&card_width=495" alt="Pablo’s Top Languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo-reyes8&layout=compact&langs_count=5&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&bg_color=1F222E,0f0c29,302b63,24243e&hide_border=true&cache_seconds=1&card_width=450" alt="Pablo’s Top Languages" />
 </a>
 
 </div>
