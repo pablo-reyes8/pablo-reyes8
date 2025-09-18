@@ -123,7 +123,6 @@ Always open to collaborating on impactful, data-driven research.
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
 
 </p>
----
 
 ## 📊 GitHub Stats
 
@@ -138,8 +137,8 @@ Always open to collaborating on impactful, data-driven research.
      height="150"
      alt="Pablo’s Top Languages" />
 </a>
-
 </div>
+
 
 ---
 ## 📘 My Top Open-Source Projects
