@@ -15,13 +15,7 @@
   </a>
 </p>
 
-<!-- Skills -->
-<p>
-  <img src="https://img.shields.io/badge/Machine&nbsp;Learning-🤖-555?style=flat" alt="Machine Learning badge"/>
-  <img src="https://img.shields.io/badge/Data&nbsp;Science-📊-555?style=flat" alt="Data Science badge"/>
-  <img src="https://img.shields.io/badge/Deep&nbsp;Learning-🧠-555?style=flat" alt="Deep Learning badge"/>
-  <img src="https://img.shields.io/badge/Econometrics-📈-555?style=flat" alt="Econometrics badge"/>
-</p>
+
 
 </div>
 
