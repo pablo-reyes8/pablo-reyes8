@@ -172,13 +172,14 @@ Always open to collaborating on impactful, data-driven research.
   </a>
 </p>
 
-<!-- Your concise table (keeps context/details) -->
+<!-- Complementary table: value, status, what's next -->
 | Project | Description | Tech |
-|---------|-------------|------|
-| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | GPU-accelerated Bayesian learning & forecasting based on Gruber & West's SGDLM framework | `Python`  `Bayesian` |
-| [**Tourism ML Forecast**](https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting) | ML-based forecasting for tourism flows in Colombia with SHAP-based interpretability | `Python` `XGBoost` `SHAP` |
-| [**SBVAR-Col**](https://github.com/pablo-reyes8/bayesian_structural_var) | Structural BVAR to analyze spillovers from U.S. T-Bills to Colombian macro indicators | `Statistics` `Python` `Bayesian VAR` |
-| [**Inflation Forecasting**](https://github.com/pablo-reyes8/inflation-forecasting-arima-lstm) | Hybrid forecasting pipeline combining ARIMA (econometrics) and LSTM (deep learning) to predict inflation, comparing traditional time series models with neural network architectures | `Python` `TensorFlow` `ARIMA` `LSTM` `Time Series` |
+|---|---|---|
+| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | Fully Bayesian **SGDLM** treating each node as a VAR(p) DLM; decouple–recouple filtering with **Variational Bayes + importance sampling** to learn sparse, time-varying cross-lag dependencies without inverting the full system. | `Python` `Bayesian` `Time Series` |
+| [**Tourism ML Forecast**](https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting) | ML pipeline forecasting **monthly foreign tourist arrivals** in Colombian cities using **Sentinel-2**, economic, security, infrastructure and climate features; compares regression, tree-based and econometric baselines with **KNN imputation**, **LIME** and **PDPs**. | `Python` `XGBoost` `Explainability` |
+| [**SBVAR-Col**](https://github.com/pablo-reyes8/bayesian_structural_var) | **Bayesian Structural VAR** with agnostic identification to isolate **U.S. Fed policy shocks** and trace effects on Colombian macro-financial variables; Gibbs for reduced-form, **MH** for structural blocks, with IRFs and FEVD from posterior draws. | `Statistics` `Python` `Bayesian VAR` |
+| [**Inflation Forecasting**](https://github.com/pablo-reyes8/inflation-forecasting-arima-lstm) | Hybrid forecasting workflow combining **ARIMA diagnostics (Stata)** and **LSTM tuning (Python)** with dynamic forecasts and evaluation (**MSE, MAE, R²**).  | `Python` `TensorFlow` `ARIMA` `LSTM` |
+
 ---
 
 
