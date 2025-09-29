@@ -39,6 +39,46 @@ Always open to collaborating on impactful, data-driven research.
 
 ---
 
+## 🛠️ Tools & Technologies
+
+<p align="center">
+
+<!-- 1️⃣ Fila 1 -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
+<img src="https://img.shields.io/badge/Stata-0A2239?style=for-the-badge&logo=stata&logoColor=white" alt="Stata" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+
+<br/>
+
+<!-- 2️⃣ Fila 2 -->
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/PyMC-0C5A6B?style=for-the-badge&logo=pymc&logoColor=white" alt="PyMC" />
+<img src="https://img.shields.io/badge/JAX-FF4B4B?style=for-the-badge&logo=jax&logoColor=white" alt="JAX" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+
+<br/>
+
+<!-- 3️⃣ Fila 3 -->
+<img src="https://img.shields.io/badge/HuggingFace-F37B3E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/spaCy-0C4C96?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
+<img src="https://img.shields.io/badge/Word2Vec-7AA721?style=for-the-badge&logo=gensim&logoColor=white" alt="Word2Vec" />
+<img src="https://img.shields.io/badge/NLTK-FFDE57?style=for-the-badge&logo=nltk&logoColor=black" alt="NLTK" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+
+</p>
+
+---
+
+
+
 ## 🤝 Open To
 Cross-domain ML/DL collaborations (vision, NLP, time series), open-source research tooling, and projects with clear social or policy impact.
 
@@ -77,42 +117,6 @@ Cross-domain ML/DL collaborations (vision, NLP, time series), open-source resear
     </td>
   </tr>
 </table>
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-
-<!-- 1️⃣ Fila 1 -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
-<img src="https://img.shields.io/badge/Stata-0A2239?style=for-the-badge&logo=stata&logoColor=white" alt="Stata" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-
-<br/>
-
-<!-- 2️⃣ Fila 2 -->
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/PyMC-0C5A6B?style=for-the-badge&logo=pymc&logoColor=white" alt="PyMC" />
-<img src="https://img.shields.io/badge/JAX-FF4B4B?style=for-the-badge&logo=jax&logoColor=white" alt="JAX" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
-
-<br/>
-
-<!-- 3️⃣ Fila 3 -->
-<img src="https://img.shields.io/badge/HuggingFace-F37B3E?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/spaCy-0C4C96?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
-<img src="https://img.shields.io/badge/Word2Vec-7AA721?style=for-the-badge&logo=gensim&logoColor=white" alt="Word2Vec" />
-<img src="https://img.shields.io/badge/NLTK-FFDE57?style=for-the-badge&logo=nltk&logoColor=black" alt="NLTK" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-
-</p>
 
 ## 📊 GitHub Stats
 
