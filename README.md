@@ -1,23 +1,26 @@
 
 <div align="center">
 
-# Hey 👋, I’m **Pablo Reyes**!
+<h1>Hey 👋, I’m <strong>Pablo Reyes</strong></h1>
+<p><em>Economist → Data Scientist | PyTorch-first DL · Bayesian Statistics · From-scratch, paper-faithful builds</em></p>
 
 <p>
   <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
   </a>
-  <a href="https://www.instagram.com/pablo.reyes8/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge"/>
-  </a>
   <a href="mailto:alejogranados229@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
   </a>
+  <a href="./Hoja_de_Vida_Ingles.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-1F222E?style=for-the-badge&logo=readme&logoColor=F8D866" alt="CV badge"/>
+  </a>
 </p>
 
-
-
 </div>
+
+
+
+
 
 ---
 
