@@ -29,54 +29,46 @@ Always open to collaborating on impactful, data-driven research.
 
 ---
 
-## 🔧 Core Strengths
+## ✨ Highlights
+- **From-scratch implementations:** Faithful builds of core ML architectures from research papers — CNNs, RNNs, GANs/StyleGAN, YOLO — with clean modules, custom training loops, schedulers, and modern regularization (EMA, DiffAug, spectral norm).
+- **Econometrics in practice:** BVAR & SGDLM pipelines for macro/finance; identification, uncertainty quantification, posterior IRFs/FEVD, and robustness/sensitivity analysis.
+- **Methodological rigor:** combine DL with identification & uncertainty analysis.
 
-- **ML & DL in Economics**: Forecasting, interpretability, and policy impact modeling  
-- **Bayesian Econometrics**: BVARs, SGDLMs, structural identification  
-- **Graph Theory in Economics**: Network centrality, contagion modeling, trade linkages
+---
 
-
-### 📅 Now
-- Researching **Econometrics** at Banco de la República
-- Pursuing a master's degree in business intelligence
-- Implementing neural network architectures from scratch
+## 🤝 Open To
+Cross-domain ML/DL collaborations (vision, NLP, time series), open-source research tooling, and projects with clear social or policy impact.
 
 
 <table style="width:100%;">
   <tr>
     <td valign="top" style="width:60%; padding-right:24px;">
-      <h3 style="margin-bottom:12px;">🔍 More About Me</h3>
-<ul style="margin:0; padding:0; list-style:none; line-height:1.8;">
-  <li style="padding-bottom:8px;">
-    🤝 I’m looking to collaborate on <strong>Bayesian Econometrics</strong> or <strong>ML applied to Economics</strong>
-  </li>
-  <li style="padding-bottom:8px;">
-    📚 I’m currently learning <strong>Reinforcement Learning</strong> and <strong>Autoencoders</strong>
-  </li>
-  <li style="padding-bottom:8px;">
-    💻 Most of my work is available on <a href="https://github.com/YOUR_USERNAME">GitHub</a>
-  </li>
-  <li style="padding-bottom:8px;">
-    ❓ Ask me anything about leveraging <strong>AI & Machine Learning</strong> for cutting-edge <strong>economic analysis</strong> and forecasting
-  </li>
-  <li style="padding-bottom:8px;">
-    🔗 Feel free to ping me on <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/">LinkedIn</a>
-  </li>
-  <li style="padding-bottom:8px;">
-    📄 Checkout my <a href="./Hoja_de_Vida_Ingles.pdf">resume</a>
-  </li>
-  <li style="padding-bottom:8px;">
-    🎾 I play tennis and 📖 read science fiction in my free time
-  </li>
-  <li style="padding-bottom:8px;">
-  🏛️ Currently conducting research at <strong>Banco de la República</strong> on Time-Series Models</strong> for policy analysis
-</li>
-</ul>
+      <h3 style="margin-bottom:12px;">🔎 Research Profile</h3>
+      <ul style="margin:0; padding:0; list-style:none; line-height:1.8;">
+        <li style="padding-bottom:8px;">
+          <strong>Interests:</strong> Deep Learning (CNNs, GANs, StyleGAN, YOLO), representation learning, Bayesian time-series models (BVAR, SGDLM), and interpretable ML.
+        </li>
+        <li style="padding-bottom:8px;">
+          <strong>Current role:</strong> Research intern at <em>Banco de la República (Colombia)</em>, applying ML & time-series to policy analysis.
+        </li>
+        <li style="padding-bottom:8px;">
+          <strong>Methods:</strong> PyTorch-first · custom training loops · from-scratch architectures · EMA / DiffAug / spectral norm · Bayesian priors when useful.
+        </li>
+        <li style="padding-bottom:8px;">
+          <strong>Currently exploring:</strong> CNN theory, reinforcement learning, graph ML, and hybrid econometrics + DL.
+        </li>
+        <li style="padding-bottom:8px;">
+          <strong>Collaboration:</strong> Open to cross-domain ML/DL projects (vision, NLP, time series) and open-source research tooling.
+        </li>
+        <li style="padding-bottom:8px;">
+          <strong>CV:</strong> <a href="./Hoja_de_Vida_Ingles.pdf">Download resume</a>
+        </li>
+      </ul>
     </td>
     <td valign="top" align="center" style="width:40%; padding-left:24px;">
       <img src="./Image_Banner.png"
-           alt="Pablo Reyes Profile Infographic"
-           width="250"/>
+           alt="Pablo Reyes — Research Profile"
+           width="260"/>
     </td>
   </tr>
 </table>
