@@ -52,7 +52,7 @@ Cross-domain ML/DL collaborations (vision, NLP, time series), open-source resear
           <strong>Current role:</strong> Research intern at <em>Banco de la República (Colombia)</em>, applying ML & time-series to policy analysis.
         </li>
         <li style="padding-bottom:8px;">
-          <strong>Methods:</strong> PyTorch-first · custom training loops · from-scratch architectures · EMA / DiffAug / spectral norm · Bayesian priors when useful.
+          <strong>Methods:</strong> PyTorch-first · custom training loops · from-scratch architectures  · Bayesian statistics when useful.
         </li>
         <li style="padding-bottom:8px;">
           <strong>Currently exploring:</strong> CNN theory, reinforcement learning, graph ML, and hybrid econometrics + DL.
