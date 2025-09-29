@@ -45,37 +45,38 @@ Cross-domain ML/DL collaborations (vision, NLP, time series), open-source resear
 
 <table style="width:100%;">
   <tr>
-    <td valign="top" style="width:60%; padding-right:24px;">
-      <h3 style="margin-bottom:12px;">🔎 Research Profile</h3>
-      <ul style="margin:0; padding:0; list-style:none; line-height:1.8;">
-        <li style="padding-bottom:8px;">
-          <strong>Interests:</strong> Deep Learning (CNNs, GANs, StyleGAN, YOLO), representation learning, Bayesian time-series models (BVAR, SGDLM), and interpretable ML.
-        </li>
-        <li style="padding-bottom:8px;">
-          <strong>Current role:</strong> Research intern at <em>Banco de la República (Colombia)</em>, applying ML & time-series to policy analysis.
-        </li>
-        <li style="padding-bottom:8px;">
-          <strong>Methods:</strong> PyTorch-first · custom training loops · from-scratch architectures  · Bayesian statistics when useful.
-        </li>
-        <li style="padding-bottom:8px;">
-          <strong>Currently exploring:</strong> CNN theory, reinforcement learning, graph ML, and hybrid econometrics + DL.
-        </li>
-        <li style="padding-bottom:8px;">
-          <strong>Collaboration:</strong> Open to cross-domain ML/DL projects (vision, NLP, time series) and open-source research tooling.
-        </li>
-        <li style="padding-bottom:8px;">
-          <strong>CV:</strong> <a href="./Hoja_de_Vida_Ingles.pdf">Download resume</a>
-        </li>
-      </ul>
+    <td valign="middle" style="width:60%; padding-right:24px; text-align:center;">
+      <div style="display:inline-block; text-align:left;">
+        <h3 style="margin:0 0 12px 0;">🔎 Research Profile</h3>
+        <ul style="margin:0; padding:0; list-style:none; line-height:1.8;">
+          <li style="padding-bottom:8px;">
+            <strong>Interests:</strong> Deep Learning (CNNs, GANs, RNNs, Transformers), representation learning, Bayesian time-series models (BVAR, SGDLM), and interpretable ML.
+          </li>
+          <li style="padding-bottom:8px;">
+            <strong>Current role:</strong> Research intern at <em>Banco de la República (Colombia)</em>, applying ML & time-series to policy analysis.
+          </li>
+          <li style="padding-bottom:8px;">
+            <strong>Methods:</strong> PyTorch-first · custom training loops · from-scratch architectures · Bayesian statistics when useful.
+          </li>
+          <li style="padding-bottom:8px;">
+            <strong>Currently exploring:</strong> CNN theory, reinforcement learning, graph ML, and hybrid econometrics + DL.
+          </li>
+          <li style="padding-bottom:8px;">
+            <strong>Collaboration:</strong> Open to cross-domain ML/DL projects (vision, NLP, time series) and open-source research tooling.
+          </li>
+          <li style="padding-bottom:8px;">
+            <strong>CV:</strong> <a href="./Hoja_de_Vida_Ingles.pdf">Download resume</a>
+          </li>
+        </ul>
+      </div>
     </td>
-    <td valign="top" align="center" style="width:40%; padding-left:24px;">
+    <td valign="middle" align="center" style="width:40%; padding-left:24px;">
       <img src="./Image_Banner.png"
            alt="Pablo Reyes — Research Profile"
-           width="260"/>
+           width="220" style="display:block; margin:0 auto;" />
     </td>
   </tr>
 </table>
-
 
 ## 🛠️ Tools & Technologies
 
