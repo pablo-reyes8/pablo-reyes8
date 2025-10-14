@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1>Hey 👋, I’m <strong>Pablo Reyes</strong></h1>
-<p><em>Economist → Data Scientist | PyTorch-first. DL · Bayesian Statistics · From-scratch, paper-faithful builds</em></p>
+<p><em>Economist → Data Scientist | PyTorch-first. Deep Learning · Bayesian Statistics · From-scratch, paper-faithful builds</em></p>
 
 <p>
   <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank">
