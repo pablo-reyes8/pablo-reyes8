@@ -193,15 +193,14 @@ Cross-domain ML/DL collaborations (vision, NLP, time series), open-source resear
   </a>
 </p>
 
-<!-- Complementary table: value, status, what's next -->
 | Project | Description | Tech |
 |---|---|---|
-| [**PyDSGEforge**](https://github.com/pablo-reyes8/PyDSGEforge) | Librería **DSGE full-Python**: construcción simbólica → forma de estado, solución tipo Gensys, filtro de Kalman, y estimación (MAP/MCMC). Enlaza macro rigurosa con implementaciones reproducibles. | `Python` `DSGE` `State-Space` |
-| [**Bayesian Structural VAR**](https://github.com/pablo-reyes8/bayesian-structural-var) | **SBVAR** con identificación agnóstica para choques de política de la Fed; Gibbs para bloque reducido y **Metropolis–Hastings** para el estructural; **IRFs** y **FEVD** desde draws posteriores. | `Python` `Bayesian VAR` `Macro-Finance` |
-| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | **SGDLM** totalmente bayesiano: cada nodo como VAR(p) DLM; **decouple–recouple** con **Variational Bayes + importance sampling** para dependencias cross-lag esparsas y **time-varying** sin invertir el sistema completo. | `Python` `Bayesian` `Time Series` |
-| [**DDPM Diffusion**](https://github.com/pablo-reyes8/ddpm-diffusion-model) | **DDPM** con U-Net+attention, **EMA**, y **DDIM**; entrenamiento/inferencia reproducibles y tiras de denoising. Muestra dominio de generativos modernos. | `PyTorch` `Generative` |
-| [**Attention Is All You Need**](https://github.com/pablo-reyes8/attention-is-all-you-need) | **Transformer** EN↔ES from-scratch (encoder–decoder, multi-head attention, sinusoidal PE), con entrenamiento real y scripts de evaluación. | `PyTorch` `NLP` `Transformers` |
-| [**Tourism ML Forecast**](https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting) | Pipeline para pronosticar **llegadas de turistas** por ciudad con **Sentinel-2** + variables económicas/seguridad; compara modelos y explica con **LIME/PDPs**. | `Python` `XGBoost` `Remote Sensing` |
+| [**PyDSGEforge**](https://github.com/pablo-reyes8/PyDSGEforge) | **Full-Python DSGE** library: symbolic model build → state-space form, Gensys-style solution, Kalman filter, and estimation (MAP/MCMC). Bridges rigorous macro with reproducible implementations. | `Python` `DSGE` `State-Space` |
+| [**Bayesian Structural VAR**](https://github.com/pablo-reyes8/bayesian-structural-var) | **SBVAR** with agnostic identification for U.S. monetary policy shocks; Gibbs for the reduced form and **Metropolis–Hastings** for the structural block; **IRFs** and **FEVD** from posterior draws. | `Python` `Bayesian VAR` `Macro-Finance` |
+| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | Fully Bayesian **SGDLM**: each node as a VAR(p) DLM; **decouple–recouple** with **Variational Bayes + importance sampling** to learn sparse, time-varying cross-lag dependencies without inverting the full system. | `Python` `Bayesian` `Time Series` |
+| [**DDPM Diffusion**](https://github.com/pablo-reyes8/ddpm-diffusion-model) | **DDPM** with U-Net + attention, **EMA**, and **DDIM**; reproducible training/inference with denoising strips. Demonstrates modern generative modeling skills. | `PyTorch` `Generative` |
+| [**Attention Is All You Need**](https://github.com/pablo-reyes8/attention-is-all-you-need) | From-scratch **Transformer** for EN↔ES translation (encoder–decoder, multi-head attention, sinusoidal PE) with real training and evaluation scripts. | `PyTorch` `NLP` `Transformers` |
+| [**Tourism ML Forecast**](https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting) | End-to-end pipeline to forecast **city-level tourist arrivals** using **Sentinel-2** plus economic/security features; model comparison and explainability with **LIME/PDPs**. | `Python` `XGBoost` `Remote Sensing` |
 
 ---
 
