@@ -137,24 +137,45 @@ Cross-domain ML/DL collaborations (vision, NLP, time series), open-source resear
 ---
 ## 📘 My Top Open-Source Projects
 
-<!-- Pin cards (responsive row) -->
+<!-- Pin cards (2 rows, responsive) -->
 <p align="left">
+  <!-- Row 1 -->
+  <a href="https://github.com/pablo-reyes8/PyDSGEforge">
+    <img width="32%" 
+         alt="PyDSGEforge"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=PyDSGEforge&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8/bayesian-structural-var">
+    <img width="32%" 
+         alt="bayesian-structural-var"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-structural-var&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  </a>
   <a href="https://github.com/pablo-reyes8/bayesian-sgdlm">
     <img width="32%" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-sgdlm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" 
-         alt="bayesian-sgdlm"/>
+         alt="bayesian-sgdlm"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-sgdlm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  </a>
+</p>
+
+<p align="left">
+  <!-- Row 2 -->
+  <a href="https://github.com/pablo-reyes8/ddpm-diffusion-model">
+    <img width="32%" 
+         alt="ddpm-diffusion-model"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=ddpm-diffusion-model&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8/attention-is-all-you-need">
+    <img width="32%" 
+         alt="attention-is-all-you-need"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=attention-is-all-you-need&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
   <a href="https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting">
     <img width="32%" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=colombia-tourism-ml-forecasting&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" 
-         alt="colombia-tourism-ml-forecasting"/>
-  </a>
-  <a href="https://github.com/pablo-reyes8/bayesian_structural_var">
-    <img width="32%" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian_structural_var&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" 
-         alt="bayesian_structural_var"/>
+         alt="colombia-tourism-ml-forecasting"
+         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=colombia-tourism-ml-forecasting&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
 </p>
+
 
 <!-- Quick actions / social proof -->
 <p align="center">
@@ -175,10 +196,12 @@ Cross-domain ML/DL collaborations (vision, NLP, time series), open-source resear
 <!-- Complementary table: value, status, what's next -->
 | Project | Description | Tech |
 |---|---|---|
-| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | Fully Bayesian **SGDLM** treating each node as a VAR(p) DLM; decouple–recouple filtering with **Variational Bayes + importance sampling** to learn sparse, time-varying cross-lag dependencies without inverting the full system. | `Python` `Bayesian` `Time Series` |
-| [**Tourism ML Forecast**](https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting) | ML pipeline forecasting **monthly foreign tourist arrivals** in Colombian cities using **Sentinel-2**, economic, security, infrastructure and climate features; compares regression, tree-based and econometric baselines with **KNN imputation**, **LIME** and **PDPs**. | `Python` `XGBoost` `Explainability` |
-| [**SBVAR-Col**](https://github.com/pablo-reyes8/bayesian_structural_var) | **Bayesian Structural VAR** with agnostic identification to isolate **U.S. Fed policy shocks** and trace effects on Colombian macro-financial variables; Gibbs for reduced-form, **MH** for structural blocks, with IRFs and FEVD from posterior draws. | `Statistics` `Python` `Bayesian VAR` |
-| [**Inflation Forecasting**](https://github.com/pablo-reyes8/inflation-forecasting-arima-lstm) | Hybrid forecasting workflow combining **ARIMA diagnostics (Stata)** and **LSTM tuning (Python)** with dynamic forecasts and evaluation (**MSE, MAE, R²**).  | `Python` `TensorFlow` `ARIMA` `LSTM` |
+| [**PyDSGEforge**](https://github.com/pablo-reyes8/PyDSGEforge) | Librería **DSGE full-Python**: construcción simbólica → forma de estado, solución tipo Gensys, filtro de Kalman, y estimación (MAP/MCMC). Enlaza macro rigurosa con implementaciones reproducibles. | `Python` `DSGE` `State-Space` |
+| [**Bayesian Structural VAR**](https://github.com/pablo-reyes8/bayesian-structural-var) | **SBVAR** con identificación agnóstica para choques de política de la Fed; Gibbs para bloque reducido y **Metropolis–Hastings** para el estructural; **IRFs** y **FEVD** desde draws posteriores. | `Python` `Bayesian VAR` `Macro-Finance` |
+| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | **SGDLM** totalmente bayesiano: cada nodo como VAR(p) DLM; **decouple–recouple** con **Variational Bayes + importance sampling** para dependencias cross-lag esparsas y **time-varying** sin invertir el sistema completo. | `Python` `Bayesian` `Time Series` |
+| [**DDPM Diffusion**](https://github.com/pablo-reyes8/ddpm-diffusion-model) | **DDPM** con U-Net+attention, **EMA**, y **DDIM**; entrenamiento/inferencia reproducibles y tiras de denoising. Muestra dominio de generativos modernos. | `PyTorch` `Generative` |
+| [**Attention Is All You Need**](https://github.com/pablo-reyes8/attention-is-all-you-need) | **Transformer** EN↔ES from-scratch (encoder–decoder, multi-head attention, sinusoidal PE), con entrenamiento real y scripts de evaluación. | `PyTorch` `NLP` `Transformers` |
+| [**Tourism ML Forecast**](https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting) | Pipeline para pronosticar **llegadas de turistas** por ciudad con **Sentinel-2** + variables económicas/seguridad; compara modelos y explica con **LIME/PDPs**. | `Python` `XGBoost` `Remote Sensing` |
 
 ---
 
