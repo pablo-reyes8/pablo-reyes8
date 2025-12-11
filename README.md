@@ -144,17 +144,17 @@ Cross-domain ML/DL collaborations (vision, NLP, time series), open-source resear
 <p align="left">
   <!-- Row 1 -->
   <a href="https://github.com/pablo-reyes8/PyDSGEforge">
-    <img width="32%" 
+    <img width="33%" 
          alt="PyDSGEforge"
          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=PyDSGEforge&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
   <a href="https://github.com/pablo-reyes8/bayesian-structural-var">
-    <img width="32%" 
+    <img width="33%" 
          alt="bayesian-structural-var"
          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-structural-var&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
   <a href="https://github.com/pablo-reyes8/bayesian-sgdlm">
-    <img width="32%" 
+    <img width="33%" 
          alt="bayesian-sgdlm"
          src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-sgdlm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
