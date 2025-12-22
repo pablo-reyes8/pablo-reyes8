@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<h1>Hey 👋, I’m <strong>Pablo Reyes !</strong></h1>
+<h1>Hey 👋, I’m <strong>Pablo Reyes!</strong></h1>
 <p><em>Economist → Data Scientist | PyTorch-first. Deep Learning · Bayesian Statistics · From-scratch, paper-faithful builds</em></p>
 
 <p>
