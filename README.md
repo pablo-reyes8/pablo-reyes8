@@ -190,16 +190,16 @@ Research collaborations in **Bayesian time series / macro-finance**, **generativ
 
 ---
 
-## 📌 Project Table (highlighted work)
+## 📌 Featured Projects (quick view)
 
-| Project | What it shows | Methods / Topics | Stack |
-|---|---|---|---|
-| [**PyDSGEforge**](https://github.com/pablo-reyes8/PyDSGEforge) | Research-grade **DSGE** tooling in pure Python (model → state-space → solution → inference). Strong “academic software” signal. | Gensys-style solution · Kalman filter · MAP/MCMC (estimation pipeline) | Python |
-| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | Fully Bayesian **high-dimensional time series** with time-varying sparse dependencies (very “researchy”). | DLM/VAR(p) nodes · decouple–recouple · VB + importance sampling | Python |
-| [**DDPM Diffusion**](https://github.com/pablo-reyes8/ddpm-diffusion-model) | Modern **generative modeling** + engineering discipline (training/inference reproducible). | DDPM · DDIM · U-Net + attention · EMA · sampling diagnostics | PyTorch |
-| [**Multiscale Vision Transformers**](https://github.com/pablo-reyes8/multiscale-vision-transformers) | Benchmark mindset: side-by-side ViT families under one pipeline (excellent for research credibility). | Swin/MaxViT/PiT-style variants · ablations · unified training | PyTorch |
-| [**implementing-gpt**](https://github.com/pablo-reyes8/implementing-gpt) | LLM “from-scratch” competence + software quality (great research-engineer signal). | tokenization · transformer blocks · training/eval scripts | PyTorch |
-| [**Bayesian Structural VAR**](https://github.com/pablo-reyes8/bayesian-structural-var) | Macro-finance identification + posterior IRFs/FEVD (rigor + applied research). | Reduced-form Bayesian VAR · MH for structural block · IRF/FEVD | Python |
+| Project | One-liner | Evidence |
+|---|---|---|
+| [**PyDSGEforge**](https://github.com/pablo-reyes8/PyDSGEforge) | Full-Python DSGE workflow: state-space, solution, and inference. | Reproducible examples + end-to-end scripts (solve → filter → estimate). |
+| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | Bayesian dynamic networks for high-dimensional time series. | Posterior simulation + sparse dependency learning demos. |
+| [**DDPM Diffusion**](https://github.com/pablo-reyes8/ddpm-diffusion-model) | Diffusion models with clean training + sampling. | Training + DDIM sampling scripts, denoising strips, checkpoints. |
+| [**Multiscale ViTs**](https://github.com/pablo-reyes8/multiscale-vision-transformers) | Unified benchmark of modern ViT families. | Shared pipeline, results table, ablations-ready structure. |
+| [**implementing-gpt**](https://github.com/pablo-reyes8/implementing-gpt) | From-scratch GPT training stack. | Tokenizer + training/eval scripts, reproducible configs. |
+| [**Bayesian Structural VAR**](https://github.com/pablo-reyes8/bayesian-structural-var) | SBVAR with posterior IRFs/FEVD and identification. | IRF/FEVD from posterior draws + stored results. |
 
 
 
