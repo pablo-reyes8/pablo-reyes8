@@ -57,7 +57,7 @@ I build **reproducible, paper-faithful ML systems** and apply them to policy-rel
             <strong>Open to:</strong> Collaborations in Bayesian time series / macro-finance, generative modeling, and vision transformers.
           </li>
           <li style="padding-bottom:0;">
-            <strong>CV:</strong> <a href="./Hoja_de_Vida_Ingles.pdf">Download resume</a>
+            <strong>CV:</strong> <a href="./Hoja_de_Vida_Pablo_Reyes.pdf">Download resume</a>
           </li>
         </ul>
       </div>
