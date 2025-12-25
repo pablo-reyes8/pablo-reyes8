@@ -22,22 +22,119 @@
 
 <br><br>
 
----
-
 ## 👨‍💻 About Me
 
-Economist turned Data Scientist focused on **Machine Learning, Bayesian Econometrics, Time-Series Analysis, and Graph Theory**.  
-I apply advanced ML and econometric methods to analyze and forecast economic systems, from **structural BVARs** to **graph-theoretic network models**.  
-Always open to collaborating on impactful, data-driven research.
+Economist & Data Scientist focused on **Bayesian macro/time series** and **modern deep learning**.  
+I build **reproducible, paper-faithful ML systems** and apply them to policy-relevant problems.
 
 ---
 
 ## ✨ Highlights
-- **Reproducible PyTorch research builds:** paper-faithful DL implementations (diffusion, ViTs, Transformers).
+- **Reproducible PyTorch research builds:** diffusion, ViTs, Transformers.
 - **Bayesian macro & time series:** DSGE / SBVAR / SGDLM with posterior inference (IRFs/FEVD) + robustness checks.
 - **Econometrics × Deep Learning:** representation learning with uncertainty + identification for policy-relevant interpretation.
-- **Research tooling mindset:** clean modular code, configs, and scripts others can reproduce and extend.
+- **Research tooling mindset:** clean modular code, configs, and reproducible scripts.
 
+---
+
+## 🔎 Research Profile
+
+<table style="width:100%;">
+  <tr>
+    <td valign="middle" style="width:60%; padding-right:24px; text-align:center;">
+      <div style="display:inline-block; text-align:left;">
+        <ul style="margin:0; padding:0; list-style:none; line-height:1.8;">
+          <li style="padding-bottom:8px;">
+            <strong>Focus:</strong> Bayesian macro/time series (DSGE, SBVAR, SGDLM) and modern deep learning (diffusion, ViTs, Transformers).
+          </li>
+          <li style="padding-bottom:8px;">
+            <strong>Current:</strong> Research assistant at <em>Banco de la República (Colombia)</em> — monetary policy, causal inference, and financial system analysis.
+          </li>
+          <li style="padding-bottom:8px;">
+            <strong>Approach:</strong> PyTorch-first · reproducible experiments · paper-faithful implementations · uncertainty-aware analysis.
+          </li>
+          <li style="padding-bottom:8px;">
+            <strong>Open to:</strong> Collaborations in Bayesian time series / macro-finance, generative modeling, and vision transformers.
+          </li>
+          <li style="padding-bottom:0;">
+            <strong>CV:</strong> <a href="./Hoja_de_Vida_Ingles.pdf">Download resume</a>
+          </li>
+        </ul>
+      </div>
+    </td>
+    <td valign="middle" align="center" style="width:40%; padding-left:24px;">
+      <img src="./Image_Banner.png"
+           alt="Pablo Reyes — Research Profile"
+           width="220" style="display:block; margin:0 auto;" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧭 Featured Research Projects 
+
+<p align="center">
+  <i>Bayesian macro/time-series + modern deep learning (generative, vision, LLMs). Reproducible pipelines, clean implementations, and paper-style reporting.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pablo-reyes8/PyDSGEforge">
+    <img width="32%" alt="PyDSGEforge"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=PyDSGEforge&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8/bayesian-sgdlm">
+    <img width="32%" alt="bayesian-sgdlm"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-sgdlm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8/ddpm-diffusion-model">
+    <img width="32%" alt="ddpm-diffusion-model"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=ddpm-diffusion-model&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pablo-reyes8/multiscale-vision-transformers">
+    <img width="32%" alt="multiscale-vision-transformers"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=multiscale-vision-transformers&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8/implementing-gpt">
+    <img width="32%" alt="implementing-gpt"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=implementing-gpt&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8/bayesian-structural-var">
+    <img width="32%" alt="bayesian-structural-var"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-structural-var&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pablo-reyes8?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories"
+         src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8?tab=followers">
+    <img alt="followers" title="Follow me on GitHub"
+         src="https://custom-icon-badges.herokuapp.com/github/followers/pablo-reyes8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub"
+         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fpablo-reyes8"/>
+  </a>
+</p>
+
+---
+
+## 📌 Featured Projects (quick view)
+
+| Project | One-liner | Evidence |
+|---|---|---|
+| [**PyDSGEforge**](https://github.com/pablo-reyes8/PyDSGEforge) | Full-Python DSGE workflow: state-space, solution, and inference. | Reproducible examples + end-to-end scripts (solve → filter → estimate). |
+| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | Bayesian dynamic networks for high-dimensional time series. | Posterior simulation + sparse dependency learning demos. |
+| [**DDPM Diffusion**](https://github.com/pablo-reyes8/ddpm-diffusion-model) | Diffusion models with clean training + sampling. | Training + DDIM sampling scripts, denoising strips, checkpoints. |
+| [**Multiscale ViTs**](https://github.com/pablo-reyes8/multiscale-vision-transformers) | Unified benchmark of modern ViT families. | Shared pipeline, results table, ablations-ready structure. |
+| [**implementing-gpt**](https://github.com/pablo-reyes8/implementing-gpt) | From-scratch GPT training stack. | Tokenizer + training/eval scripts, reproducible configs. |
+| [**Bayesian Structural VAR**](https://github.com/pablo-reyes8/bayesian-structural-var) | SBVAR with posterior IRFs/FEVD and identification. | IRF/FEVD from posterior draws + stored results. |
 
 ---
 
@@ -79,40 +176,6 @@ Always open to collaborating on impactful, data-driven research.
 
 ---
 
-
-
-## 🤝 Open To
-Research collaborations in **Bayesian time series / macro-finance**, **generative modeling**, and **vision transformers** — especially projects with clear social or policy relevance.
-
-<table style="width:100%;">
-  <tr>
-    <td valign="middle" style="width:60%; padding-right:24px; text-align:center;">
-      <div style="display:inline-block; text-align:left;">
-        <h3 style="margin:0 0 12px 0;">🔎 Research Profile</h3>
-        <ul style="margin:0; padding:0; list-style:none; line-height:1.8;">
-          <li style="padding-bottom:8px;">
-            <strong>Focus:</strong> Bayesian macro/time series (DSGE, SBVAR, SGDLM) and modern deep learning (diffusion, ViTs, Transformers).
-          </li>
-          <li style="padding-bottom:8px;">
-          <strong>Current:</strong> Research assistant at <em>Banco de la República (Colombia)</em> — monetary policy, causal inference, and financial system analysis.
-          </li>
-          <li style="padding-bottom:8px;">
-            <strong>Approach:</strong> PyTorch-first · reproducible experiments · paper-faithful implementations · uncertainty-aware analysis.
-          </li>
-          <li style="padding-bottom:8px;">
-            <strong>CV:</strong> <a href="./Hoja_de_Vida_Ingles.pdf">Download resume</a>
-          </li>
-        </ul>
-      </div>
-    </td>
-    <td valign="middle" align="center" style="width:40%; padding-left:24px;">
-      <img src="./Image_Banner.png"
-           alt="Pablo Reyes — Research Profile"
-           width="220" style="display:block; margin:0 auto;" />
-    </td>
-  </tr>
-</table>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -129,85 +192,7 @@ Research collaborations in **Bayesian time series / macro-finance**, **generativ
 
 </div>
 
-
 ---
-## 🧭 Featured Research Projects 
-
-<!-- Pin cards (2 rows, responsive) -->
-<p align="center">
-  <i>Bayesian macro/time-series + modern deep learning (generative, vision, LLMs). Reproducible pipelines, clean implementations, and paper-style reporting.</i>
-</p>
-
-<!-- ===================== -->
-<!-- Pinned cards (2 rows) -->
-<!-- ===================== -->
-<p align="center">
-  <a href="https://github.com/pablo-reyes8/PyDSGEforge">
-    <img width="32%" alt="PyDSGEforge"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=PyDSGEforge&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
-  </a>
-  <a href="https://github.com/pablo-reyes8/bayesian-sgdlm">
-    <img width="32%" alt="bayesian-sgdlm"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-sgdlm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
-  </a>
-  <a href="https://github.com/pablo-reyes8/ddpm-diffusion-model">
-    <img width="32%" alt="ddpm-diffusion-model"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=ddpm-diffusion-model&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pablo-reyes8/multiscale-vision-transformers">
-    <img width="32%" alt="multiscale-vision-transformers"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=multiscale-vision-transformers&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
-  </a>
-  <a href="https://github.com/pablo-reyes8/implementing-gpt">
-    <img width="32%" alt="implementing-gpt"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=implementing-gpt&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
-  </a>
-  <a href="https://github.com/pablo-reyes8/bayesian-structural-var">
-    <img width="32%" alt="bayesian-structural-var"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-structural-var&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
-  </a>
-</p>
-
-
-<!-- Quick actions -->
-<p align="center">
-  <a href="https://github.com/pablo-reyes8?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories"
-         src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-  <a href="https://github.com/pablo-reyes8?tab=followers">
-    <img alt="followers" title="Follow me on GitHub"
-         src="https://custom-icon-badges.herokuapp.com/github/followers/pablo-reyes8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pablo-reyes8?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub"
-         src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fpablo-reyes8"/>
-  </a>
-</p>
-
----
-
-## 📌 Featured Projects (quick view)
-
-| Project | One-liner | Evidence |
-|---|---|---|
-| [**PyDSGEforge**](https://github.com/pablo-reyes8/PyDSGEforge) | Full-Python DSGE workflow: state-space, solution, and inference. | Reproducible examples + end-to-end scripts (solve → filter → estimate). |
-| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | Bayesian dynamic networks for high-dimensional time series. | Posterior simulation + sparse dependency learning demos. |
-| [**DDPM Diffusion**](https://github.com/pablo-reyes8/ddpm-diffusion-model) | Diffusion models with clean training + sampling. | Training + DDIM sampling scripts, denoising strips, checkpoints. |
-| [**Multiscale ViTs**](https://github.com/pablo-reyes8/multiscale-vision-transformers) | Unified benchmark of modern ViT families. | Shared pipeline, results table, ablations-ready structure. |
-| [**implementing-gpt**](https://github.com/pablo-reyes8/implementing-gpt) | From-scratch GPT training stack. | Tokenizer + training/eval scripts, reproducible configs. |
-| [**Bayesian Structural VAR**](https://github.com/pablo-reyes8/bayesian-structural-var) | SBVAR with posterior IRFs/FEVD and identification. | IRF/FEVD from posterior draws + stored results. |
-
-
-
----
-
-
-
-
 
 <p align="center">
   “Building reproducible ML + Bayesian tooling for scientific inference.”
