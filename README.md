@@ -1,10 +1,8 @@
 
-
-
 <div align="center">
 
 <h1>Hey 👋, I’m <strong>Pablo Reyes</strong></h1>
-<p><em>Economist → Data Scientist | PyTorch-first. Deep Learning · Bayesian Statistics · From-scratch, paper-faithful builds</em></p>
+<p><em>Economist & Data Scientist | PyTorch-first · Bayesian inference · Reproducible, paper-faithful ML builds</em></p>
 
 <p>
   <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank">
@@ -35,9 +33,11 @@ Always open to collaborating on impactful, data-driven research.
 ---
 
 ## ✨ Highlights
-- **From-scratch implementations:** Faithful builds of core ML architectures from research papers — CNNs, RNNs, GANs/StyleGAN, YOLO — with clean modules, custom training loops, schedulers, and modern regularization (EMA, DiffAug, spectral norm).
-- **Econometrics in practice:** BVAR & SGDLM pipelines for macro/finance; identification, uncertainty quantification, posterior IRFs/FEVD, and robustness/sensitivity analysis.
-- **Methodological rigor:** combine DL with identification & uncertainty analysis.
+- **Reproducible PyTorch research builds:** paper-faithful DL implementations (diffusion, ViTs, Transformers).
+- **Bayesian macro & time series:** DSGE / SBVAR / SGDLM with posterior inference (IRFs/FEVD) + robustness checks.
+- **Econometrics × Deep Learning:** representation learning with uncertainty + identification for policy-relevant interpretation.
+- **Research tooling mindset:** clean modular code, configs, and scripts others can reproduce and extend.
+
 
 ---
 
@@ -82,8 +82,7 @@ Always open to collaborating on impactful, data-driven research.
 
 
 ## 🤝 Open To
-Cross-domain ML/DL collaborations (vision, NLP, time series), open-source research tooling, and projects with clear social or policy impact.
-
+Research collaborations in **Bayesian time series / macro-finance**, **generative modeling**, and **vision transformers** — especially projects with clear social or policy relevance.
 
 <table style="width:100%;">
   <tr>
@@ -92,19 +91,13 @@ Cross-domain ML/DL collaborations (vision, NLP, time series), open-source resear
         <h3 style="margin:0 0 12px 0;">🔎 Research Profile</h3>
         <ul style="margin:0; padding:0; list-style:none; line-height:1.8;">
           <li style="padding-bottom:8px;">
-            <strong>Interests:</strong> Deep Learning (CNNs, GANs, RNNs, Transformers), representation learning, Bayesian time-series models (BVAR, SGDLM), and interpretable ML.
+            <strong>Focus:</strong> Bayesian macro/time series (DSGE, SBVAR, SGDLM) and modern deep learning (diffusion, ViTs, Transformers).
           </li>
           <li style="padding-bottom:8px;">
-            <strong>Current role:</strong> Research intern at <em>Banco de la República (Colombia)</em>, applying ML & time-series to policy analysis.
+          <strong>Current:</strong> Research assistant at <em>Banco de la República (Colombia)</em> — monetary policy, causal inference, and financial system analysis.
           </li>
           <li style="padding-bottom:8px;">
-            <strong>Methods:</strong> PyTorch-first · custom training loops · from-scratch architectures · Bayesian statistics when useful.
-          </li>
-          <li style="padding-bottom:8px;">
-            <strong>Currently exploring:</strong> CNN theory, reinforcement learning, graph ML, and hybrid econometrics + DL.
-          </li>
-          <li style="padding-bottom:8px;">
-            <strong>Collaboration:</strong> Open to cross-domain ML/DL projects (vision, NLP, time series) and open-source research tooling.
+            <strong>Approach:</strong> PyTorch-first · reproducible experiments · paper-faithful implementations · uncertainty-aware analysis.
           </li>
           <li style="padding-bottom:8px;">
             <strong>CV:</strong> <a href="./Hoja_de_Vida_Ingles.pdf">Download resume</a>
@@ -138,72 +131,77 @@ Cross-domain ML/DL collaborations (vision, NLP, time series), open-source resear
 
 
 ---
-## 📘 My Top Open-Source Projects
+## 🧭 Featured Research Projects 
 
 <!-- Pin cards (2 rows, responsive) -->
-<p align="left">
-  <!-- Row 1 -->
+<p align="center">
+  <i>Bayesian macro/time-series + modern deep learning (generative, vision, LLMs). Reproducible pipelines, clean implementations, and paper-style reporting.</i>
+</p>
+
+<!-- ===================== -->
+<!-- Pinned cards (2 rows) -->
+<!-- ===================== -->
+<p align="center">
   <a href="https://github.com/pablo-reyes8/PyDSGEforge">
-    <img width="33%" 
-         alt="PyDSGEforge"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=PyDSGEforge&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
-  </a>
-  <a href="https://github.com/pablo-reyes8/bayesian-structural-var">
-    <img width="33%" 
-         alt="bayesian-structural-var"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-structural-var&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+    <img width="32%" alt="PyDSGEforge"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=PyDSGEforge&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
   <a href="https://github.com/pablo-reyes8/bayesian-sgdlm">
-    <img width="33%" 
-         alt="bayesian-sgdlm"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-sgdlm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+    <img width="32%" alt="bayesian-sgdlm"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-sgdlm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
-</p>
-
-<p align="left">
-  <!-- Row 2 -->
   <a href="https://github.com/pablo-reyes8/ddpm-diffusion-model">
-    <img width="32%" 
-         alt="ddpm-diffusion-model"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=ddpm-diffusion-model&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+    <img width="32%" alt="ddpm-diffusion-model"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=ddpm-diffusion-model&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
-  <a href="https://github.com/pablo-reyes8/attention-is-all-you-need">
-    <img width="32%" 
-         alt="attention-is-all-you-need"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=attention-is-all-you-need&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pablo-reyes8/multiscale-vision-transformers">
+    <img width="32%" alt="multiscale-vision-transformers"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=multiscale-vision-transformers&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
-  <a href="https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting">
-    <img width="32%" 
-         alt="colombia-tourism-ml-forecasting"
-         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=colombia-tourism-ml-forecasting&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  <a href="https://github.com/pablo-reyes8/implementing-gpt">
+    <img width="32%" alt="implementing-gpt"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=implementing-gpt&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  </a>
+  <a href="https://github.com/pablo-reyes8/bayesian-structural-var">
+    <img width="32%" alt="bayesian-structural-var"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-structural-var&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
 </p>
 
 
-<!-- Quick actions / social proof -->
+<!-- Quick actions -->
 <p align="center">
   <a href="https://github.com/pablo-reyes8?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" 
+    <img alt="All Repositories" title="All Repositories"
          src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
   <a href="https://github.com/pablo-reyes8?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" 
+    <img alt="followers" title="Follow me on GitHub"
          src="https://custom-icon-badges.herokuapp.com/github/followers/pablo-reyes8?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="https://github.com/pablo-reyes8?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" 
+    <img alt="total stars" title="Total stars on GitHub"
          src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fpablo-reyes8"/>
   </a>
 </p>
 
-| Project | Description | Tech |
-|---|---|---|
-| [**PyDSGEforge**](https://github.com/pablo-reyes8/PyDSGEforge) | **Full-Python DSGE** library: symbolic model build → state-space form, Gensys-style solution, Kalman filter, and estimation (MAP/MCMC). Bridges rigorous macro with reproducible implementations. | `Python` `DSGE` `State-Space` |
-| [**Bayesian Structural VAR**](https://github.com/pablo-reyes8/bayesian-structural-var) | **SBVAR** with agnostic identification for U.S. monetary policy shocks; Gibbs for the reduced form and **Metropolis–Hastings** for the structural block; **IRFs** and **FEVD** from posterior draws. | `Python` `Bayesian VAR` `Macro-Finance` |
-| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | Fully Bayesian **SGDLM**: each node as a VAR(p) DLM; **decouple–recouple** with **Variational Bayes + importance sampling** to learn sparse, time-varying cross-lag dependencies without inverting the full system. | `Python` `Bayesian` `Time Series` |
-| [**DDPM Diffusion**](https://github.com/pablo-reyes8/ddpm-diffusion-model) | **DDPM** with U-Net + attention, **EMA**, and **DDIM**; reproducible training/inference with denoising strips. Demonstrates modern generative modeling skills. | `PyTorch` `Generative` |
-| [**Attention Is All You Need**](https://github.com/pablo-reyes8/attention-is-all-you-need) | From-scratch **Transformer** for EN↔ES translation (encoder–decoder, multi-head attention, sinusoidal PE) with real training and evaluation scripts. | `PyTorch` `NLP` `Transformers` |
-| [**Tourism ML Forecast**](https://github.com/pablo-reyes8/colombia-tourism-ml-forecasting) | End-to-end pipeline to forecast **city-level tourist arrivals** using **Sentinel-2** plus economic/security features; model comparison and explainability with **LIME/PDPs**. | `Python` `XGBoost` `Remote Sensing` |
+---
+
+## 📌 Project Table (highlighted work)
+
+| Project | What it shows | Methods / Topics | Stack |
+|---|---|---|---|
+| [**PyDSGEforge**](https://github.com/pablo-reyes8/PyDSGEforge) | Research-grade **DSGE** tooling in pure Python (model → state-space → solution → inference). Strong “academic software” signal. | Gensys-style solution · Kalman filter · MAP/MCMC (estimation pipeline) | Python |
+| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | Fully Bayesian **high-dimensional time series** with time-varying sparse dependencies (very “researchy”). | DLM/VAR(p) nodes · decouple–recouple · VB + importance sampling | Python |
+| [**DDPM Diffusion**](https://github.com/pablo-reyes8/ddpm-diffusion-model) | Modern **generative modeling** + engineering discipline (training/inference reproducible). | DDPM · DDIM · U-Net + attention · EMA · sampling diagnostics | PyTorch |
+| [**Multiscale Vision Transformers**](https://github.com/pablo-reyes8/multiscale-vision-transformers) | Benchmark mindset: side-by-side ViT families under one pipeline (excellent for research credibility). | Swin/MaxViT/PiT-style variants · ablations · unified training | PyTorch |
+| [**implementing-gpt**](https://github.com/pablo-reyes8/implementing-gpt) | LLM “from-scratch” competence + software quality (great research-engineer signal). | tokenization · transformer blocks · training/eval scripts | PyTorch |
+| [**Bayesian Structural VAR**](https://github.com/pablo-reyes8/bayesian-structural-var) | Macro-finance identification + posterior IRFs/FEVD (rigor + applied research). | Reduced-form Bayesian VAR · MH for structural block · IRF/FEVD | Python |
+
+
 
 ---
 
@@ -212,5 +210,5 @@ Cross-domain ML/DL collaborations (vision, NLP, time series), open-source resear
 
 
 <p align="center">
-  “Transforming data into high-impact decisions.”
+  “Building reproducible ML + Bayesian tooling for scientific inference.”
 </p>
