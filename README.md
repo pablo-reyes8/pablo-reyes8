@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-Economist & Data Scientist focused on **Bayesian macro/time series** and **modern deep learning**.  
+Economist & Data Scientist focused on **modern deep learning** and **Bayesian macro/time series**.  
 I build **reproducible, paper-faithful ML systems** and apply them to policy-relevant problems.
 
 ---
