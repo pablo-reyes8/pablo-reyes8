@@ -180,12 +180,12 @@ I build **reproducible, paper-faithful ML systems** and apply them to policy-rel
 
 <div align="center">
 
-| <a href="https://github.com/pablo-reyes8"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pablo-reyes8&show_icons=true&include_all_commits=true&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&bg_color=1F222E&hide_border=true" alt="Pablo’s GitHub Stats" /></a> | <a href="https://github.com/pablo-reyes8"><img align="center" src="https://streak-stats.demolab.com?user=pablo-reyes8&theme=dark&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" alt="Pablo’s GitHub Streak"/></a> |
+| <a href="https://github.com/pablo-reyes8"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pablo-reyes8&show_icons=true&include_all_commits=true&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&bg_color=1F222E&hide_border=true&cache_seconds=21600" alt="Pablo’s GitHub Stats" /></a> | <a href="https://github.com/pablo-reyes8"><img align="center" src="https://streak-stats.demolab.com?user=pablo-reyes8&theme=dark&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&cache_seconds=21600" alt="Pablo’s GitHub Streak"/></a> |
 |:---:|:---:|
 
 <a href="https://github.com/pablo-reyes8">
 <img align="center"
-     src="https://github-readme-stats.vercel.app/api/top-langs?username=pablo-reyes8&layout=compact&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&bg_color=1F222E&hide_border=true&card_width=680"
+     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=pablo-reyes8&layout=compact&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&bg_color=1F222E&hide_border=true&card_width=680&cache_seconds=21600"
      height="150"
      alt="Pablo’s Top Languages" />
 </a>
