@@ -125,19 +125,6 @@ I build **reproducible, paper-faithful ML systems** and apply them to policy-rel
 
 ---
 
-## 📌 Featured Projects (quick view)
-
-| Project | One-liner | Evidence |
-|---|---|---|
-| [**PyDSGEforge**](https://github.com/pablo-reyes8/PyDSGEforge) | Full-Python DSGE workflow: state-space, solution, and inference. | Reproducible examples + end-to-end scripts (solve → filter → estimate). |
-| [**Bayesian SGDLM**](https://github.com/pablo-reyes8/bayesian-sgdlm) | Bayesian dynamic networks for high-dimensional time series. | Posterior simulation + sparse dependency learning demos. |
-| [**DDPM Diffusion**](https://github.com/pablo-reyes8/ddpm-diffusion-model) | Diffusion models with clean training + sampling. | Training + DDIM sampling scripts, denoising strips, checkpoints. |
-| [**Multiscale ViTs**](https://github.com/pablo-reyes8/multiscale-vision-transformers) | Unified benchmark of modern ViT families. | Shared pipeline, results table, ablations-ready structure. |
-| [**implementing-gpt**](https://github.com/pablo-reyes8/implementing-gpt) | From-scratch GPT training stack. | Tokenizer + training/eval scripts, reproducible configs. |
-| [**Bayesian Structural VAR**](https://github.com/pablo-reyes8/bayesian-structural-var) | SBVAR with posterior IRFs/FEVD and identification. | IRF/FEVD from posterior draws + stored results. |
-
----
-
 ## 🛠️ Tools & Technologies
 
 <p align="center">
