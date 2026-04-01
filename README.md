@@ -75,17 +75,17 @@ I build **reproducible, paper-faithful ML systems** and apply them to policy-rel
 ## 🧭 Featured Research Projects 
 
 <p align="center">
-  <i>Bayesian macro/time-series + modern deep learning (generative, vision, LLMs). Reproducible pipelines, clean implementations, and paper-style reporting.</i>
+  <i>Bayesian modeling + modern deep learning across econometrics, generative modeling, vision, and structural biology.</i>
 </p>
 
 <p align="center">
+  <a href="https://github.com/pablo-reyes8/alphafold2-from-scratch">
+    <img width="32%" alt="alphafold2-from-scratch"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=alphafold2-from-scratch&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  </a>
   <a href="https://github.com/pablo-reyes8/PyDSGEforge">
     <img width="32%" alt="PyDSGEforge"
       src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=PyDSGEforge&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
-  </a>
-  <a href="https://github.com/pablo-reyes8/bayesian-sgdlm">
-    <img width="32%" alt="bayesian-sgdlm"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-sgdlm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
   <a href="https://github.com/pablo-reyes8/ddpm-diffusion-model">
     <img width="32%" alt="ddpm-diffusion-model"
@@ -98,9 +98,9 @@ I build **reproducible, paper-faithful ML systems** and apply them to policy-rel
     <img width="32%" alt="multiscale-vision-transformers"
       src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=multiscale-vision-transformers&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
-  <a href="https://github.com/pablo-reyes8/implementing-gpt">
-    <img width="32%" alt="implementing-gpt"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=implementing-gpt&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
+  <a href="https://github.com/pablo-reyes8/bayesian-sgdlm">
+    <img width="32%" alt="bayesian-sgdlm"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pablo-reyes8&repo=bayesian-sgdlm&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false"/>
   </a>
   <a href="https://github.com/pablo-reyes8/bayesian-structural-var">
     <img width="32%" alt="bayesian-structural-var"
