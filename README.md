@@ -24,16 +24,16 @@
 
 ## 👨‍💻 About Me
 
-Economist & Data Scientist focused on **modern deep learning** and **Bayesian macro/time series**.  
-I build **reproducible, paper-faithful ML systems** and apply them to policy-relevant problems.
+Researcher in **modern deep learning**, with a strong interest in **computer vision**, **generative modeling**, and **transformer-based systems**.  
+I build **reproducible, paper-faithful ML systems** and also work on **Bayesian macro/time series** for policy-relevant applications.
 
 ---
 
 ## ✨ Highlights
-- **Reproducible PyTorch research builds:** diffusion, ViTs, Transformers.
-- **Bayesian macro & time series:** DSGE / SBVAR / SGDLM with posterior inference (IRFs/FEVD) + robustness checks.
-- **Econometrics × Deep Learning:** representation learning with uncertainty + identification for policy-relevant interpretation.
-- **Research tooling mindset:** clean modular code, configs, and reproducible scripts.
+- **Modern deep learning builds:** diffusion models, vision transformers, transformers, and geometric learning systems in PyTorch.
+- **Research-first engineering:** modular code, reproducible experiments, configuration-driven pipelines, and paper-faithful implementations.
+- **Computer vision & generative modeling focus:** especially interested in representation learning, image generation, and architecture design.
+- **Bayesian econometrics & causal inference:** posterior inference, structural analysis, and robustness checks.
 
 ---
 
@@ -45,16 +45,16 @@ I build **reproducible, paper-faithful ML systems** and apply them to policy-rel
       <div style="display:inline-block; text-align:left;">
         <ul style="margin:0; padding:0; list-style:none; line-height:1.8;">
           <li style="padding-bottom:8px;">
-            <strong>Focus:</strong> Bayesian macro/time series (DSGE, SBVAR, SGDLM) and modern deep learning (diffusion, ViTs, Transformers).
+            <strong>Focus:</strong> Modern deep learning, especially computer vision, generative modeling, and transformer-based architectures; complemented by work in Bayesian time series, macro-financial modeling, and causal inference.
           </li>
           <li style="padding-bottom:8px;">
             <strong>Current:</strong> Research assistant at <em>Banco de la República (Colombia)</em> — monetary policy, causal inference, and financial system analysis.
           </li>
           <li style="padding-bottom:8px;">
-            <strong>Approach:</strong> PyTorch-first · reproducible experiments · paper-faithful implementations · uncertainty-aware analysis.
+            <strong>Approach:</strong> PyTorch-first · reproducible experiments · paper-faithful implementations · mathematically grounded modeling.
           </li>
           <li style="padding-bottom:8px;">
-            <strong>Open to:</strong> Collaborations in Bayesian time series / macro-finance, generative modeling, and vision transformers.
+            <strong>Open to:</strong> Collaborations in deep learning, computer vision, generative modeling, Bayesian time series, and causally informed quantitative research.
           </li>
           <li style="padding-bottom:0;">
             <strong>CV:</strong> <a href="./Hoja_de_Vida_Pablo_Reyes.pdf">Download resume</a>
@@ -65,7 +65,8 @@ I build **reproducible, paper-faithful ML systems** and apply them to policy-rel
     <td valign="middle" align="center" style="width:40%; padding-left:24px;">
       <img src="./Image_Banner.png"
            alt="Pablo Reyes — Research Profile"
-           width="220" style="display:block; margin:0 auto;" />
+           width="520"
+           style="display:block; margin:0 auto;" />
     </td>
   </tr>
 </table>
@@ -75,7 +76,7 @@ I build **reproducible, paper-faithful ML systems** and apply them to policy-rel
 ## 🧭 Featured Research Projects 
 
 <p align="center">
-  <i>Bayesian modeling + modern deep learning across econometrics, generative modeling, vision, and structural biology.</i>
+  <i>Research projects spanning modern deep learning, generative modeling, transformers, and geometric ML—with complementary work in Bayesian econometrics and causal inference.</i>
 </p>
 
 <p align="center">
