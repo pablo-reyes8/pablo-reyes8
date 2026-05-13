@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="baner_22_1.png" />
+<img src="baner_22.png" />
 
 ## 👨‍💻 About Me
 
