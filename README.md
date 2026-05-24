@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
   </a>
+  <a href="https://pablo-reyes.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge"/>
+  </a>
   <a href="mailto:alejogranados229@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge"/>
   </a>
