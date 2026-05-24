@@ -166,6 +166,13 @@ I build **reproducible, paper-faithful ML systems** and also work on **Bayesian 
 
 <div align="center">
 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pablo-reyes8&theme=react-dark&hide_border=true&bg_color=1F222E&color=FFFFFF&line=F85D7F&point=F8D866&area=true&area_color=F85D7F"
+    width="80%"
+    alt="Pablo’s GitHub Activity Graph"
+  />
+
+
 | <a href="https://github.com/pablo-reyes8"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pablo-reyes8&show_icons=true&include_all_commits=true&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&bg_color=1F222E&hide_border=true&cache_seconds=21600" alt="Pablo’s GitHub Stats" /></a> | <a href="https://github.com/pablo-reyes8"><img align="center" src="https://streak-stats.demolab.com?user=pablo-reyes8&theme=dark&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&cache_seconds=21600" alt="Pablo’s GitHub Streak"/></a> |
 |:---:|:---:|
 
