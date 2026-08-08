@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <h1>Hey 👋, I’m <strong>Pablo Reyes</strong></h1>
@@ -8,13 +7,21 @@
   <a href="https://www.linkedin.com/in/pablo-alejandro-reyes-granados/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
   </a>
+  
   <a href="https://pablo-reyes.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio badge"/>
   </a>
+
   <a href="./Hoja_de_VIda_Pablo_Reyes.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-1F222E?style=for-the-badge&logo=readme&logoColor=F8D866" alt="CV badge"/>
   </a>
+
+  <a href="mailto:alejogranados229@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"/>
+  </a>
 </p>
+
+</div>
 
 </div>
 
