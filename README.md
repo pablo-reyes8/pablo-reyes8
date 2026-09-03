@@ -167,34 +167,30 @@ I build **reproducible, paper-faithful ML systems** and also work on **Bayesian 
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablo-reyes8&theme=tokyonight"
-    width="95%"
-    alt="Pablo's GitHub Profile Summary"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pablo-reyes8&theme=tokyonight"
-    width="48%"
-    alt="Pablo's GitHub Stats"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pablo-reyes8&theme=tokyonight"
-    width="48%"
-    alt="Pablo's Top Languages"
-  />
-
-  <br/><br/>
-
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=pablo-reyes8&theme=tokyonight&hide_border=true"
-    width="60%"
+    width="50%"
     alt="Pablo's GitHub Streak"
   />
+</p>
 
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pablo-reyes8&theme=tokyonight"
+    width="37%"
+    alt="Pablo's GitHub Stats"
+  /><img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pablo-reyes8&theme=tokyonight"
+    width="37%"
+    alt="Pablo's Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablo-reyes8&theme=tokyonight"
+    width="75%"
+    alt="Pablo's GitHub Profile Summary"
+  />
+</p>
