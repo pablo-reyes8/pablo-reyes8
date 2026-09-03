@@ -170,24 +170,31 @@ I build **reproducible, paper-faithful ML systems** and also work on **Bayesian 
 <div align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pablo-reyes8&theme=react-dark&hide_border=true&bg_color=1F222E&color=FFFFFF&line=F85D7F&point=F8D866&area=true&area_color=F85D7F"
-    width="85%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=pablo-reyes8&theme=react-dark&hide_border=true&bg_color=1F222E&color=FFFFFF&line=F85D7F&point=F8D866&area=true"
+    width="95%"
     alt="Pablo's GitHub Activity Graph"
   />
 
   <br/><br/>
 
-  <a href="https://github.com/pablo-reyes8">
-    <img src="https://github-readme-stats.vercel.app/api?username=pablo-reyes8&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&hide_border=true" alt="Pablo's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/pablo-reyes8">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablo-reyes8&theme=dark&hide_border=true&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" alt="Pablo's GitHub Streak" width="48%" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pablo-reyes8&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="Pablo's GitHub Stats"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=pablo-reyes8&theme=tokyonight&hide_border=true"
+    width="49%"
+    alt="Pablo's GitHub Streak"
+  />
 
   <br/><br/>
 
-  <a href="https://github.com/pablo-reyes8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-reyes8&layout=compact&theme=tokyonight&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866&hide_border=true&hide=html,css" alt="Pablo's Top Languages" width="60%" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-reyes8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="49%"
+    alt="Pablo's Top Languages"
+  />
 
 </div>
