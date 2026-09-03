@@ -170,31 +170,31 @@ I build **reproducible, paper-faithful ML systems** and also work on **Bayesian 
 <div align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pablo-reyes8&theme=react-dark&hide_border=true&bg_color=1F222E&color=FFFFFF&line=F85D7F&point=F8D866&area=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablo-reyes8&theme=tokyonight"
     width="95%"
-    alt="Pablo's GitHub Activity Graph"
+    alt="Pablo's GitHub Profile Summary"
   />
 
   <br/><br/>
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=pablo-reyes8&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pablo-reyes8&theme=tokyonight"
+    width="48%"
     alt="Pablo's GitHub Stats"
   />
 
   <img
-    src="https://streak-stats.demolab.com?user=pablo-reyes8&theme=tokyonight&hide_border=true"
-    width="49%"
-    alt="Pablo's GitHub Streak"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pablo-reyes8&theme=tokyonight"
+    width="48%"
+    alt="Pablo's Top Languages"
   />
 
   <br/><br/>
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-reyes8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    width="49%"
-    alt="Pablo's Top Languages"
+    src="https://streak-stats.demolab.com?user=pablo-reyes8&theme=tokyonight&hide_border=true"
+    width="60%"
+    alt="Pablo's GitHub Streak"
   />
 
 </div>
